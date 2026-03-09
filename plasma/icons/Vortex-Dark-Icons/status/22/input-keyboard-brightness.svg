@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <g id="22-22-input-keyboard-brightness" transform="translate(-354,-428.36218) translate(-16,-106)">
+        <rect x="370" y="534.36218" width="22" height="22" ry="0" fill="none"/>
+        <path class="ColorScheme-Text" transform="translate(354,428.36218)" d="m 20,112 c 0,3 0,11 0,11 l 7,2 7,-2 v -9 h -1 c 0,0 0,2 0,4 0,2 -2,2 -2,2 l -8,0 c 0,0 -2,0 -2,-2 0,-2 0,-4 0,-6 0,-2 2,-2 2,-2 h 6 v -1 h -6 c 0,0 -3,0 -3,3 z m 12,-3 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m 0,1 v 2 c -0.55228,0 -1,-0.44771 -1,-1 0,-0.55228 0.44772,-1 1,-1 z M 26.4375,112 24,118 h 1.074219 l 0.40625,-1 h 3.039062 l 0.40625,1 H 30 l -2.439453,-6 H 27.023438 L 27,112.00977 26.976562,112 Z M 27,113.25781 28.113281,116 H 25.886719 Z M 21,121 h 12 v 1 H 21 Z" fill="currentColor"/>
+    </g>
+</svg>

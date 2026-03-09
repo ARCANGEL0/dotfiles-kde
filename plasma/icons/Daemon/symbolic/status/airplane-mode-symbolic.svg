@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   viewBox="0 0 24 24"
+   id="svg4"
+   sodipodi:docname="airplane-mode-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="862"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 3.27,5.845 c -0.774,1 -0.72,1.017 0.779,1.676 l 7.845,2.802 -4.39,5.667 -3.433,-0.204 c -0.4,-0.028 -0.396,-0.06 -0.611,0.22 l -0.214,0.275 c -0.418,0.539 0.277,0.781 0.277,0.781 l 3.501,2.146 2.954,2.854 c 0,0 0.414,0.603 0.794,0.112 l 0.244,-0.315 c 0.206,-0.266 0.188,-0.266 0.06,-0.647 l -1.054,-3.27 4.39,-5.668 4.633,6.863 c 1.064,1.35 1.08,1.368 1.856,0.366 0.422,-0.544 0.409,-0.556 0.071,-1.392 L 17.643,8.1 20.662,4.203 A 1.59,1.59 0 0 0 20.378,1.968 1.59,1.59 0 0 0 18.143,2.252 L 15.124,6.148 4.6,5.43 C 3.765,5.319 3.696,5.3 3.33,5.768 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

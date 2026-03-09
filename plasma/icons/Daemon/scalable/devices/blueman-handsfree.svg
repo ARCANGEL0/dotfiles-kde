@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="audio-headphones.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24,0 C 10.745166,0 0,10.745166 0,24 0,37.254834 10.745166,48 24,48 37.254834,48 48,37.254834 48,24 48,10.745166 37.254834,0 24,0 Z m 0,3 C 35.59798,3 45,12.40202 45,24 45,35.59798 35.59798,45 24,45 12.40202,45 3,35.59798 3,24 3,12.40202 12.40202,3 24,3 Z m 0,5 c -7.731986,0 -14,6.268014 -14,14 0.0036,4.197503 1.890475,8.171893 5.140625,10.828125 v 0 l 1.091797,3.537109 c 0.286771,1.070246 1.378973,1.700834 2.449219,1.414063 1.070245,-0.286772 1.700834,-1.380926 1.414062,-2.451172 l -2.328125,-8.693359 c -0.286771,-1.070246 -1.378973,-1.700834 -2.449219,-1.414063 -1.070245,0.286772 -1.700834,1.380926 -1.414062,2.451172 L 14.25,28.962891 C 12.79339,26.932774 12.00681,24.498608 12,22 c 0,-6.627417 5.372583,-12 12,-12 6.627417,0 12,5.372583 12,12 -0.0066,2.500156 -0.793875,4.935829 -2.251953,6.966797 l 0.347656,-1.294922 c 0.286772,-1.070246 -0.343817,-2.1644 -1.414062,-2.451172 -1.070246,-0.286771 -2.162448,0.343817 -2.449219,1.414063 l -2.328125,8.693359 c -0.286772,1.070246 0.343817,2.1644 1.414062,2.451172 1.070246,0.286771 2.162448,-0.343817 2.449219,-1.414063 l 1.19336,-3.613281 v 0 C 36.152603,30.093059 37.99866,26.154087 38,22 38,14.268014 31.731986,8 24,8 Z"
+     transform="scale(0.26458333)"
+     id="path831"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssssscccccccccccscccccccccccs" />
+</svg>

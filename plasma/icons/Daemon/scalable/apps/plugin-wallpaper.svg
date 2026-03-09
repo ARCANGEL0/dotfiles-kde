@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 12 11 C 10.892 11 10 11.892 10 13 L 10 31 C 10 32.108 10.892 33 12 33 L 19 33 L 19 37 L 13 37 L 13 39 L 35 39 L 35 37 L 29 37 L 29 33 L 36 33 C 37.108 33 38 32.108 38 31 L 38 13 C 38 11.892 37.108 11 36 11 L 12 11 z M 13 13 L 30 13 L 35 13 C 35.553999 13 36 13.446 36 14 L 36 19 L 36 30 C 36 30.554 35.553999 31 35 31 L 13 31 C 12.446001 31 12 30.554 12 30 L 12 14 C 12 13.446 12.446001 13 13 13 z M 36 19 L 30 13 L 30 16 L 30 18 C 30 18.277 30.112219 18.526281 30.292969 18.707031 C 30.473719 18.887781 30.723001 19 31 19 L 32.599609 19 L 36 19 z "
+     transform="scale(0.26458333)"
+     id="path818" />
+</svg>

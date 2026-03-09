@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  width="22"
+  height="22"
+  version="1.1"
+  id="svg1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+ <defs
+   id="defs1" />
+ <style
+   type="text/css"
+   id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+ <g
+   id="kopete">
+  <path
+    id="rect4144"
+    d="m 3,5 c 0,2 0,6 0,8 0,2 2,2 2,2 h 1 v 4 l 4,-4 h 7.047991 C 17.047991,15 19,15 19,13 19,11 19,7 19,5 19,3 17,3 17,3 H 5 C 5,3 3,3 3,5 Z M 4,5 C 4,4 5,4 5,4 h 12 c 0,0 1,0 1,1 0,1 0,7 0,8 0,1 -1,1 -1,1 H 5 C 5,14 4,14 4,13 4,12 4,6 4,5 Z M 13.234375,4.5292969 12.996094,5.0058594 C 14.254947,5.9480768 14.997235,7.4275888 15,9 c -0.0028,1.572411 -0.745053,3.051924 -2.003906,3.994141 l 0.238281,0.472656 C 14.927234,12.62117 15.997658,10.892314 16,9 15.999137,7.106279 14.928491,5.3755534 13.234375,4.5292969 Z M 6,5 V 7 H 8 V 5 Z m 3,3 v 2 h 4 V 8 Z m -3,3 v 2 h 2 v -2 z"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    class="ColorScheme-Text" />
+  <rect
+    y="0"
+    x="0"
+    height="22"
+    width="22"
+    id="rect4186"
+    style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
+ </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "prayagjain2@gmail.com",
+                "Name": "Prayag Jain"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A modern looking clock widget for your Desktop!",
+        "Icon": "clock",
+        "Id": "com.github.prayag2.modernclock",
+        "License": "GPLv3",
+        "Name": "Modern Clock",
+        "Version": "1.0.0",
+        "Website": "https://github.com/prayag2/kde_modernclock"
+        
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": "org.kde.plasma.time,org.kde.plasma.date",
+    "KPackageStructure": "Plasma/Applet"
+}

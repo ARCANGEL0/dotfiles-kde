@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="user-trash-full.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  <path
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 22 10 C 20.892 10 20 10.892 20 12 L 20 13 L 12 13 L 12 15 L 14 15 L 14 37 C 14 37.554 14.446 38 15 38 L 33 38 C 33.554 38 34 37.554 34 37 L 34 15 L 36 15 L 36 13 L 28 13 L 28 12 C 28 10.892 27.108 10 26 10 L 22 10 z M 23 11 L 25 11 C 25.554 11 26 11.446 26 12 L 26 13 L 22 13 L 22 12 C 22 11.446 22.446 11 23 11 z M 24 19 C 24.554 19 25 19.446 25 20 L 25 31 C 25 31.554 24.554 32 24 32 C 23.446 32 23 31.554 23 31 L 23 20 C 23 19.446 23.446 19 24 19 z M 19 21 C 19.554 21 20 21.446 20 22 L 20 29 C 20 29.554 19.554 30 19 30 C 18.446 30 18 29.554 18 29 L 18 22 C 18 21.446 18.446 21 19 21 z M 29 21 C 29.554 21 30 21.446 30 22 L 30 29 C 30 29.554 29.554 30 29 30 C 28.446 30 28 29.554 28 29 L 28 22 C 28 21.446 28.446 21 29 21 z "
+     transform="scale(0.26458333)"
+     id="path890"
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc" />
+</svg>

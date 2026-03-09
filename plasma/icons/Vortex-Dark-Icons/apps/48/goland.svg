@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.699752 12.699752"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="goland.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4028446"
+     inkscape:cx="38.611402"
+     inkscape:cy="1.9305701"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3"
+     transform="translate(-0.5292655,-0.5292655)">
+    <path
+       fill="#bb80db"
+       d="M 12.435283,6.8787526 A 5.5565304,5.5565304 0 0 1 6.8787526,12.435283 5.5565304,5.5565304 0 0 1 1.323,6.8787526 5.5565304,5.5565304 0 0 1 6.8787526,1.323 5.5565304,5.5565304 0 0 1 12.435283,6.8787526 Z"
+       id="path1"
+       style="stroke-width:0.77779" />
+    <rect
+       width="6.1733174"
+       height="6.1733174"
+       x="3.7924829"
+       y="3.7924829"
+       fill="#303030"
+       rx="1.0290159"
+       ry="1.0290159"
+       style="stroke-width:0.77779;paint-order:markers stroke fill"
+       id="rect1" />
+    <path
+       fill="#f0f0f0"
+       d="M 4.4100478,8.8652278 H 6.8258629 V 9.3482352 H 4.4100478 Z"
+       id="path2"
+       style="stroke-width:0.77779" />
+    <path
+       fill="#ffffff"
+       d="m 5.6249554,7.2062021 c 0.3608945,0 0.6657881,-0.1400022 0.8415686,-0.3126715 V 5.7229569 H 5.5440653 v 0.4238955 h 0.458896 v 0.5117857 c -0.073112,0.063779 -0.1991142,0.098779 -0.322005,0.098779 -0.5117857,0 -0.7715675,-0.3406719 -0.7715675,-0.9045696 0,-0.5576752 0.3017825,-0.8944582 0.732678,-0.8944582 0.2348925,0 0.3826726,0.09489 0.5117857,0.2177811 L 6.4276345,4.8463878 A 1.0920169,1.0920169 0 0 0 5.6249554,4.5134938 c -0.6906773,0 -1.2444637,0.5008966 -1.2444637,1.3564654 0,0.8664579 0.5397862,1.3362429 1.2444637,1.3362429 z m 2.4298154,0 c 0.6867884,0 1.1604624,-0.5156746 1.1604624,-1.3572432 0,-0.8415686 -0.473674,-1.3362429 -1.1604624,-1.3362429 -0.6867884,0 -1.1604624,0.4915632 -1.1604624,1.3362429 0,0.8415686 0.4728962,1.3572432 1.1604624,1.3572432 z m 0,-0.4487847 c -0.3857837,0 -0.6315653,-0.3546722 -0.6315653,-0.9084585 0,-0.5576753 0.2457816,-0.8905693 0.6315653,-0.8905693 0.3857837,0 0.6307875,0.332894 0.6307875,0.8905693 0,0.5537863 -0.2450038,0.9084585 -0.6307875,0.9084585 z"
+       aria-label="GO"
+       id="path3"
+       style="stroke-width:0.77779" />
+  </g>
+</svg>

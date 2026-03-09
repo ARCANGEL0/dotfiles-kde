@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <g transform="translate(1,1)">
+    <g id="22-22-input-keyboard-battery" transform="translate(-332,-396.36218) translate(-16,-138)">
+      <rect x="348" y="534.36218" width="22" height="22" ry="0" fill="none"/>
+      <path class="ColorScheme-Text" transform="translate(332,396.36218)" d="m 20,144 c 0,3 0,11 0,11 l 7,2 7,-2 v -5 h -1 c 0,0 0,2 -2,2 -2,0 -6,0 -8,0 -2,0 -2,-2 -2,-2 0,0 0,-4 0,-6 0,-2 2,-2 2,-2 h 6 v -1 h -6 c 0,0 -3,0 -3,3 z m 12,-3 -2,5 h 2 v 3 l 2,-5 H 32 Z M 26.4375,144 24,150 h 1.074219 l 0.40625,-1 h 3.039062 l 0.40625,1 H 30 l -2.439453,-6 H 27.023438 L 27,144.00977 26.976562,144 Z M 27,145.25781 28.113281,148 H 25.886719 Z M 21,153 h 12 v 1 H 21 Z" fill="currentColor"/>
+    </g>
+  </g>
+</svg>

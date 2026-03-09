@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ruinivist"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "An aesthetic song name widget with media controls. Meant to be placed on Desktop not in panel.",
+        "Icon": "applications-multimedia",
+        "Id": "org.ruiny.NowPlaying",
+        "License": "GPLv3",
+        "Name": "NowPlaying",
+        "Version": "1.0",
+        "Website": "https://github.com/ruinivist/NowPlaying"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [ "org.kde.plasma.multimediacontrols" ],
+    "X-Plasma-DBusActivationService": "org.mpris.MediaPlayer2.*"
+}

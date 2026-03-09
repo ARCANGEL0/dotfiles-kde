@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Ghost
+Comment=A futuristic theme inspired by Ghost In The Shell.
+
+X-KDE-PluginInfo-Author=J.M.Todaro
+X-KDE-PluginInfo-Email=jmtodaro@gmail.com
+X-KDE-PluginInfo-Name=Ghost
+X-KDE-PluginInfo-Version=2.0.2
+X-KDE-PluginInfo-Website=http://jmtodaro.com
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Ubuntu-Gettext-Domain=desktop_kdebase-runtime

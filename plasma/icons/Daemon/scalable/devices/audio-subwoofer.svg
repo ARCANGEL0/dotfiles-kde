@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="audio-subwoofer.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 6.35,3.452 A 2.91,2.898 0 0 0 3.44,6.35 2.91,2.898 0 0 0 6.35,9.248 2.91,2.898 0 0 0 9.26,6.35 2.91,2.898 0 0 0 6.35,3.452 Z m 0,0.527 A 2.381,2.371 0 0 1 8.731,6.35 2.381,2.371 0 0 1 6.35,8.72 2.381,2.371 0 0 1 3.969,6.35 2.381,2.371 0 0 1 6.35,3.98 Z m 0,0.527 A 1.852,1.844 0 0 0 4.498,6.35 1.852,1.844 0 0 0 6.35,8.194 1.852,1.844 0 0 0 8.202,6.35 1.852,1.844 0 0 0 6.35,4.506 Z"
+     id="path2"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 8.469,0.953 8.319,1.55 a 5.21,5.187 0 0 1 3.241,4.8 5.21,5.187 0 0 1 -3.241,4.799 l 0.148,0.594 A 5.82,5.796 0 0 0 12.17,6.35 5.82,5.796 0 0 0 8.469,0.953 Z M 4.232,0.958 A 5.82,5.796 0 0 0 0.53,6.35 5.82,5.796 0 0 0 4.233,11.748 L 4.383,11.15 A 5.21,5.187 0 0 1 1.141,6.35 5.21,5.187 0 0 1 4.381,1.552 Z M 3.108,3.248 A 4.498,4.479 0 0 0 1.852,6.35 4.498,4.479 0 0 0 3.115,9.454 L 3.433,8.942 A 3.914,3.897 0 0 1 2.436,6.35 3.914,3.897 0 0 1 3.43,3.76 L 3.108,3.247 Z M 9.59,3.251 9.27,3.761 A 3.914,3.897 0 0 1 10.264,6.35 3.914,3.897 0 0 1 9.267,8.942 L 9.588,9.457 A 4.498,4.479 0 0 0 10.848,6.35 4.498,4.479 0 0 0 9.59,3.251 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
+     style="opacity:0.5;fill:#5beedc" />
+</svg>

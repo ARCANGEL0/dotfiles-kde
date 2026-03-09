@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="stellarium.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.2265625"
+     inkscape:cx="28.105395"
+     inkscape:cy="19.834379"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     fill="#3c1d66"
+     d="m 23.979,3 a 21,21 0 0 0 -20.9789999,21 21,21 0 0 0 0,0.021 A 21,21 0 0 0 24,45 h 0.021 A 21,21 0 0 0 45,24 21,21 0 0 0 45,23.979 21,21 0 0 0 24,3 Z"
+     id="path1"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="33.407223"
+     cy="15.140333"
+     r="6.6313334"
+     fill="#3a3670"
+     id="circle1"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#e6e6e6"
+     d="m 38.490778,10.884333 a 6.5955556,6.5955556 0 0 1 0.346889,2.105445 6.6313333,6.6313333 0 0 1 -6.631333,6.631333 A 6.6111111,6.6111111 0 0 1 27.122778,17.245 c 0.881222,2.628889 3.359222,4.526667 6.284444,4.526667 a 6.6313333,6.6313333 0 0 0 6.632112,-6.632111 6.6103333,6.6103333 0 0 0 -1.548556,-4.254445 z"
+     id="path2"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#462e7a"
+     d="M 5.383889,14.282444 A 21,21 0 0 0 3.0000001,24 a 21,21 0 0 0 0,0.021 21,21 0 0 0 5.7819998,14.448 l 4.1105561,1.426444 14.624555,0.688334 3.310223,-6.168556 C 25.754667,19.058 11.132445,15.215 5.383889,14.282444 Z"
+     id="path3"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#ac776d"
+     d="m 42.709445,23.184111 c -4.328334,-0.03889 -14.015556,1.466111 -22.259223,14.133778 l 14.035,3.927 L 36.264,41.045778 A 21,21 0 0 0 45,24 21,21 0 0 0 45,23.979 21,21 0 0 0 44.98911,23.381667 c -0.01478,-0.0031 -0.849333,-0.184334 -2.279665,-0.197556 z"
+     id="path4"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#b8ad99"
+     d="M 42.709445,29.817 C 38.381111,29.778111 28.693889,31.283111 20.450222,43.950778 L 34.857,41.975222 A 21,21 0 0 0 44.153778,29.897889 14.927889,14.927889 0 0 0 42.709445,29.817 Z"
+     id="path5"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#574a5c"
+     d="M 40.057222,32.997333 C 28.653445,32.795111 18.578889,37.423667 18.578889,37.423667 l -0.105,4.259889 H 35.325222 A 21,21 0 0 0 42.9,33.155222 38.538889,38.538889 0 0 0 40.057222,32.997333 Z"
+     id="path6"
+     style="stroke-width:0.777778" />
+  <path
+     fill="#312b33"
+     d="M 3.0575557,25.554 A 21,21 0 0 0 24,45 h 0.02178 A 21,21 0 0 0 38.955111,38.741222 C 30.152222,40.213556 23.456334,35.054556 23.456334,35.054556 10.173445,25.892333 6.5342224,25.975556 3.0575557,25.554 Z"
+     id="path7"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="9.0775557"
+     cy="12.251667"
+     r="1.3673333"
+     fill="#e5e5e5"
+     id="circle7"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="11.583555"
+     cy="15.626444"
+     r="0.87888891"
+     fill="#e5e5e5"
+     id="circle8"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="21.531332"
+     cy="20.047333"
+     r="0.87888891"
+     fill="#e5e5e5"
+     id="circle9"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="13.893557"
+     cy="9.224556"
+     r="0.71633333"
+     fill="#e5e5e5"
+     id="circle10"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="8.2375555"
+     cy="20.780001"
+     r="0.52033335"
+     fill="#e5e5e5"
+     id="circle11"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="13.499223"
+     cy="14.282444"
+     r="0.52033335"
+     fill="#e5e5e5"
+     id="circle12"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="15.70889"
+     cy="15.386889"
+     r="0.52033335"
+     fill="#e5e5e5"
+     id="circle13"
+     style="stroke-width:0.777778" />
+  <circle
+     cx="14.604445"
+     cy="23.124222"
+     r="0.52033335"
+     fill="#e5e5e5"
+     id="circle14"
+     style="stroke-width:0.777778" />
+</svg>

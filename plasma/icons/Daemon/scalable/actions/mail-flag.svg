@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="mail-flag.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1078"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.81355932"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 12,2.54 A 9.46,9.46 0 0 0 3.7,7.47 l 8.14,8 h 0.76 l 7.86,-7.7 A 9.46,9.46 0 0 0 12,2.54 Z M 3.15,8.67 A 9.46,9.46 0 0 0 2.54,12 9.46,9.46 0 0 0 3.78,16.66 l 3.72,-3.7 z m 17.82,0.35 -3.97,3.95 3.47,2.74 c 0.7,-1.35 0.99,-2.2 1,-3.71 -0.01,-1.01 -0.18,-2.02 -0.5,-2.98 z m -12.55,4.8 -3.94,3.91 a 9.46,9.46 0 0 0 7.52,3.73 9.46,9.46 0 0 0 2.63,-0.38 v -5.82 l -1.47,1.47 h -1.84 l -2.9,-2.9 z m 7.66,1.4 v 8 h 1.33 v -2.66 l 5.33,-1.34 -5.33,-4 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+</svg>

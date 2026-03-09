@@ -1,0 +1,30 @@
+{
+  "KPackageStructure": "KWin/Effect",
+  "KPlugin": {
+     "Name": "Glitch [Burn-My-Windows]",
+     "Description": "This effect applies some intentional graphics issues to your windows",
+     "Icon": "preferences-system-windows-effect-glitch",
+     "Category": "Window Open/Close Animation",
+     "Authors": [ 
+        { "Name": "Simon Schneegans", "Email": "code@simonschneegans.de" },
+        { "Name": "Martin Flöser", "Email": "mgraesslin@kde.org" },
+        { "Name": "Vlad Zahorodnii", "Email": "vlad.zahorodnii@kde.org" }
+     ],
+     "Id": "kwin6_effect_glitch",
+     "License": "GPLv3",
+     "Version": "1.0",
+     "EnabledByDefault": false,
+     "Website": "https://github.com/Schneegans/Burn-My-Windows/",
+     "BugReportUrl": "https://github.com/Schneegans/Burn-My-Windows/issues",
+     "ServiceTypes": [
+       "KWin/Effect"
+     ]
+  },
+  "X-KDE-ConfigModule": "kcm_kwin4_genericscripted",
+  "X-KDE-Ordering": "60",
+  "X-KDE-PluginKeyword": "kwin6_effect_glitch",
+  "X-KWin-Config-TranslationDomain": "burn-my-windows",
+  "X-KWin-Exclusive-Category": "toplevel-open-close-animation",
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}

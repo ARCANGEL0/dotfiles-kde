@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  viewBox="0 0 16 16"
+  version="1.1"
+  id="svg1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+ <defs
+   id="defs3051">
+  <style
+    type="text/css"
+    id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+      </style>
+ </defs>
+ <g
+   transform="translate(-421.71429,-531.79074)"
+   id="g1">
+  <path
+    style="fill:currentColor;fill-opacity:1;stroke:none"
+    d="m 4,2 c 0,0 -2,0 -2,2 0,2 0,6 0,8 0,2 2,2 2,2 h 8 c 0,0 2,0 2,-2 0,-2 0,-6 0,-8 C 14,2 12,2 12,2 Z M 3,5 C 3,4 4,4 4,4 h 5 v 9 H 4 C 4,13 3,13 3,12 3,11 3,6 3,5 Z m 7,-1 h 2 c 0,0 1,0 1,1 0,1 0,6 0,7 0,1 -1,1 -1,1 h -2 z"
+    transform="translate(421.71429,531.79074)"
+    class="ColorScheme-Text"
+    id="rect4272" />
+  <path
+    style="fill:currentColor;fill-opacity:1;stroke:none"
+    class="ColorScheme-NegativeText"
+    d="m 425.95691,537.79079 -0.70703,0.70703 1.79296,1.79297 -1.79296,1.79297 0.70703,0.70703 1.79297,-1.79296 1.79297,1.79296 0.70703,-0.70703 -1.79296,-1.79297 1.79296,-1.79297 -0.70703,-0.70703 -1.79297,1.79296 -1.79297,-1.79296 z"
+    id="rect4153" />
+ </g>
+</svg>

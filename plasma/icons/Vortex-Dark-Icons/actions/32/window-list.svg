@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"   width="32" height="32">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}</style>
+    <g id="window-list" transform="translate(-286 -545.36218) translate(0,-16)">
+        <path id="rect3004" d="m286 561.36218h32v32h-32z" fill="#333" opacity="0"/>
+        <path id="rect3008" d="m 290,569.36218 c 0,4 0,6.00002 0,6.00002 h 10 v -10 l -6,-2e-5 c 0,0 -4,0 -4,4 z m 1,0 c 0,-3 3,-3 3,-3 l 5,2e-5 v 8 h -8 c 0,0 0,-2.00002 0,-5.00002 z" class="ColorScheme-Text" fill="currentColor"/>
+        <path id="rect3010" d="m 304,565.3622 v 10 h 10 c 0,0 0,-2.37124 0,-6.18563 0,-3.81439 -4,-3.81437 -4,-3.81437 z m 1,1 h 5 c 0,0 3,-2e-5 3,2.99998 0,3 0,5.00002 0,5.00002 h -8 z" class="ColorScheme-Text" fill="currentColor"/>
+        <path id="rect3012" d="m 290,579.3622 v 5.99998 c 0,0 0,4 4,4.00002 4,2e-5 6,0 6,0 v -10 z m 1,1 h 8 v 8 c 0,0 -2,-2e-5 -5,-2e-5 -3,0 -3,-3 -3,-3 z" class="ColorScheme-Text" fill="currentColor"/>
+        <path id="rect3014" d="m 304,579.3622 v 10 h 6 c 0,0 4,-2e-5 4,-4.00002 0,-4 0,-5.99998 0,-5.99998 z m 1,1 h 8 c 0,0 0,1.99998 0,4.99998 0,3 -3,3.00002 -3,3.00002 h -5 z" class="ColorScheme-Text" fill="currentColor"/>
+    </g>
+</svg>

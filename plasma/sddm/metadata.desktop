@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=miside-sddm-theme
+Description=Crazy Mita login theme for SDDM
+Author=arcangel0
+Website=https://github.com/ARCANGEL0/MiSide-sddm-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.3
+ConfigFile=mita.conf
+Screenshot=mita.jpg
+MainScript=Main.qml
+Theme-Id=miside-sddm-theme
+Theme-API=2.0
+QtVersion=6

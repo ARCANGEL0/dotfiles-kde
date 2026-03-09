@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mita Theme
+Comment=Custom Mita Splash Screen for KDE Plasma
+Type=Service
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Name=mita
+X-KDE-PluginInfo-Author=arcxlo
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Homepage=https://github.com/arcangel0
+X-KDE-PluginInfo-License=GPL-3.0

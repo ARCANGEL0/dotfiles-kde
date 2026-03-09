@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="compass.svg"
+   width="22"
+   height="22"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.7386364"
+     inkscape:cx="7.4382315"
+     inkscape:cy="37.248374"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#d8d8d8;
+            }
+        </style>
+  </defs>
+  <g
+     id="22-22-compass">
+    <path
+       style="clip-rule:evenodd;fill:#ffffc1;fill-opacity:0;fill-rule:evenodd;stroke-width:0.688964;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       d="M 0,0 V 22 H 22 V 0 Z"
+       id="rect817-5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 4.4,17.555704 c 0,1.349973 2.984613,2.444323 6.666348,2.444323 3.681738,0 6.666347,-1.09435 6.666347,-2.444323 0,-0.971528 -1.545883,-1.810572 -3.784789,-2.204704 0.65433,0.257852 1.057647,0.602536 1.057647,0.982535 0,0.797708 -1.763647,1.444385 -3.939205,1.444385 -2.175572,0 -3.939213,-0.646677 -3.939213,-1.444385 0,-0.379998 0.40333,-0.724683 1.05765,-0.982535 C 5.945886,15.745132 4.4,16.584176 4.4,17.555704 Z"
+       id="path4-3"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.222213" />
+    <path
+       d="m 11.113548,16.442897 a 0.63608282,0.63608282 0 0 0 0.5047,-0.363912 L 15.213853,8.8878261 A 4.7927099,4.7927099 0 0 0 14.842064,3.9079364 4.6913305,4.6913304 0 0 0 6.870148,8.790459 l 3.662156,7.32397 a 0.5943026,0.59430259 0 0 0 0.581244,0.328468 z M 8.513302,6.5832081 A 2.5530466,2.5530466 0 1 1 11.066348,9.136253 2.5559126,2.5559126 0 0 1 8.513302,6.5832081 Z"
+       id="path6-6"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.222213" />
+  </g>
+</svg>

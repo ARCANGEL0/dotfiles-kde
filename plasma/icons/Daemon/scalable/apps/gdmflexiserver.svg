@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="gdm-setup.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 26 44.884766 L 26 36 L 39 36 C 39.554 36 40 35.554 40 35 L 40 13 C 40 12.446 39.554 12 39 12 L 9 12 C 8.4459999 12 8 12.446 8 13 L 8 35 C 8 35.554 8.4459999 36 9 36 L 22 36 L 22 44.898438 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 10 14 L 38 14 L 38 34 L 26 34 L 26 32.458984 A 3.9999997 3.9999997 0 0 0 28 29 A 3.9999997 3.9999997 0 0 0 26 25.541016 L 26 29 C 26 29.277 25.887781 29.526281 25.707031 29.707031 C 25.526281 29.887781 25.277 30 25 30 L 23 30 C 22.723 30 22.473719 29.887781 22.292969 29.707031 C 22.112219 29.526281 22 29.277 22 29 L 22 25.541016 A 3.9999997 3.9999997 0 0 0 20 29 A 3.9999997 3.9999997 0 0 0 22 32.458984 L 22 34 L 10 34 L 10 14 z M 16 16 L 16 17 L 31 17 L 31 16 L 16 16 z M 18.5 18 A 1.5 1.5 0 0 0 17 19.5 A 1.5 1.5 0 0 0 18.5 21 A 1.5 1.5 0 0 0 20 19.5 A 1.5 1.5 0 0 0 18.5 18 z M 23.5 18 A 1.5 1.5 0 0 0 22 19.5 A 1.5 1.5 0 0 0 23.5 21 A 1.5 1.5 0 0 0 25 19.5 A 1.5 1.5 0 0 0 23.5 18 z M 28.5 18 A 1.5 1.5 0 0 0 27 19.5 A 1.5 1.5 0 0 0 28.5 21 A 1.5 1.5 0 0 0 30 19.5 A 1.5 1.5 0 0 0 28.5 18 z M 16 22 L 16 23 L 31 23 L 31 22 L 16 22 z "
+     transform="scale(0.26458333)"
+     id="rect883" />
+</svg>

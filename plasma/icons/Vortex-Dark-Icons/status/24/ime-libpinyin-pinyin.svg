@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g transform="translate(0,22.000008) translate(0,-22)" id="ime-libpinyin-pinyin">
+      <path style="fill:currentColor;fill-opacity:1;stroke:none" d="m 3,5.999992 v 10 c 0,0 0,3 3,3 3,0 7,0 10,0 3,0 3,-3 3,-3 v -10 c 0,0 0,-3 -3,-3 -3,0 -7,0 -10,0 -3,0 -3,3 -3,3 z m 7.900391,-1.2988201 1.5,2 L 12.001953,7 h 1.996094 l -0.398438,-0.2988281 1.5,-2 0.800782,0.5996093 L 14.625,7 H 17 v 1 h -2 v 3 h 2 v 1 h -2 v 5 h -1 v -5 h -2.041016 c -0.09614,1.118701 -0.477091,2.02943 -0.925781,2.806641 -0.620717,1.075 -1.6914061,2.058593 -1.6914061,2.058593 L 8.6582031,16.136719 c 0,0 1.0124506,-0.968778 1.5097659,-1.830078 C 10.569285,13.61152 10.872261,12.895032 10.960938,12 H 9 v -0.941406 l -1,0.5 V 17 H 5 V 16 H 7 V 12.058594 L 5.2226562,12.947266 4.7773438,12.052734 7,10.941406 V 8 H 5 V 7 H 7 V 5 H 8 V 7 H 9 V 8 H 8 v 2.441406 L 8.7773438,10.052734 9.2226562,10.947266 9.1171875,11 H 11 V 8 H 10 V 7 h 1.375 L 10.099609,5.3007812 Z M 12,8 v 3 h 2 V 8 Z" class="ColorScheme-Text" id="path6-4"/>
+      <rect style="fill:none;fill-opacity:1;stroke:none" id="rect4138-2" width="22" height="22" x="0" y="0"/>
+    </g>
+  </g>
+</svg>

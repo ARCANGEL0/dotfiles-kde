@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g id="fcitx-erbi" transform="translate(132,8e-6) translate(-132,-8e-06)">
+      <path id="rect4205" d="m 6,3 c 0,0 -3,0 -3,3 0,3 0,7 0,10 0,3 3,3 3,3 l 10,0 c 0,0 3,0 3,-3 C 19,13 19,9 19,6 19,3 16,3 16,3 Z M 4,6 C 4,4 6,4 6,4 h 10 c 0,0 2,0 2,2 0,2 0,8 0,10 0,2 -2,2 -2,2 H 6 C 6,18 4,18 4,16 4,14 4,8 4,6 Z M 6,7 V 8 H 16 V 7 Z m -1,7 v 1 h 12 v -1 z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+      <rect y="0" x="0" height="22" width="22" id="rect4219" style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="gnome-mime-text-x-vcalendar.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 12 2.0039062 C 10.337008 2.0039062 9 3.1473837 9 4.5722656 L 9 7.9980469 L 15.003906 7.9980469 L 15.003906 4.5722656 C 15.003906 3.1473837 13.666898 2.0039063 12.003906 2.0039062 L 12 2.0039062 z M 36 2.0039062 C 34.337008 2.0039062 33 3.1473837 33 4.5722656 L 33 7.9980469 L 39 7.9980469 L 39 4.5722656 C 39 3.1473837 37.662992 2.0039062 36 2.0039062 z M 1.0019531 10 L 1.0019531 38.998047 C 1.0019531 43.427653 4.5703938 46.994141 9 46.994141 L 39 46.994141 A 7.9823621 7.9823621 0 0 0 46.998047 38.998047 L 46.998047 10 L 1.0019531 10 z M 4.0742188 17.994141 L 43.925781 17.994141 C 43.971136 18.32296 44.001953 18.655936 44.001953 18.996094 L 44.001953 37.996094 C 44.001953 41.322078 41.770394 43.998047 39 43.998047 L 8.9960938 43.998047 C 6.2257 43.998047 3.9941406 41.322078 3.9941406 37.996094 L 3.9941406 19 C 3.9941406 18.659843 4.0249582 18.326866 4.0703125 17.998047 L 4.0742188 17.994141 z M 17 22 A 4.9999997 4.9999997 0 0 0 12 27 L 14 27 A 3 3 0 0 1 17 24 A 3 3 0 0 1 20 27 A 3 3 0 0 1 19.119141 29.119141 L 12 36 L 12 38 L 13 38 L 22 38 L 22 36 L 15.017578 36 L 20.533203 30.533203 A 4.9999996 4.9999996 0 0 0 22 27 A 4.9999997 4.9999997 0 0 0 17 22 z M 30 22 L 26 24 L 26 26 L 30 24 L 30 36 L 26 36 L 26 38 L 36 38 L 36 36 L 32 36 L 32 22 L 30 22 z "
+     transform="scale(0.26458333)"
+     id="path832" />
+</svg>

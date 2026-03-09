@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="package-available-locked.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1078"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.81355932"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g6"
+     style="fill:#5beedc">
+    <path
+       d="M 11.98,6.02 A 2.86,2.86 0 0 0 9.12,8.88 v 1.14 H 8.55 c -0.64,0 -1.15,0.52 -1.15,1.15 v 5.71 c 0,0.63 0.52,1.15 1.15,1.15 h 6.85 c 0.64,0 1.15,-0.52 1.15,-1.15 v -5.71 c 0,-0.63 -0.51,-1.15 -1.15,-1.15 H 14.83 V 8.88 A 2.86,2.86 0 0 0 11.98,6.02 Z m 0,1.09 c 0.97,0 1.77,0.8 1.77,1.77 v 1.14 H 10.2 V 8.88 c 0,-0.98 0.79,-1.77 1.77,-1.77 z"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 4.98,3.02 a 2,2 0 0 0 -2,2 v 14 a 2,2 0 0 0 2,2 h 14 a 2,2 0 0 0 2,-2 v -14 a 2,2 0 0 0 -2,-2 z m 0,2 h 14 v 14 h -14 z"
+       id="path4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

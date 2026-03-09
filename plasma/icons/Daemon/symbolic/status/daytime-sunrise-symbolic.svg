@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg9"
+   version="1.1"
+   sodipodi:docname="daytime-sunrise-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="862"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme" />
+  </defs>
+  <path
+     d="m 12,2.84 -3,4 h 6 z m -0.344,5.68 a 0.339,0.339 0 0 0 -0.314,0.34 v 2.013 c 0,0.18 0.16,0.318 0.34,0.318 h 0.677 c 0.18,0 0.338,-0.139 0.338,-0.318 V 8.859 c 0,-0.18 -0.138,-0.34 -0.338,-0.34 h -0.677 a 0.339,0.339 0 0 0 -0.026,0 z m -6.3,2.623 A 0.339,0.339 0 0 0 5.141,11.23 l -0.479,0.479 a 0.339,0.339 0 0 0 0,0.459 l 1.416,1.436 a 0.339,0.339 0 0 0 0.479,0 l 0.478,-0.479 a 0.339,0.339 0 0 0 0.08,-0.2 0.339,0.339 0 0 0 0,-0.038 0.339,0.339 0 0 0 -0.08,-0.24 L 5.6,11.23 A 0.339,0.339 0 0 0 5.355,11.143 Z m 13.26,0 A 0.339,0.339 0 0 0 18.4,11.23 l -1.435,1.416 a 0.339,0.339 0 0 0 0,0.479 l 0.478,0.479 a 0.339,0.339 0 0 0 0.479,0 l 1.416,-1.436 a 0.319,0.319 0 0 0 0.1,-0.2 0.319,0.319 0 0 0 0,-0.038 0.339,0.339 0 0 0 -0.1,-0.221 L 18.859,11.23 A 0.339,0.339 0 0 0 18.615,11.143 Z M 12,13.883 a 4.685,4.685 0 0 0 -4.686,4.685 4.685,4.685 0 0 0 0.797,2.592 h 7.778 A 4.685,4.685 0 0 0 16.686,18.568 4.685,4.685 0 0 0 12,13.883 Z M 2.266,17.89 a 0.339,0.339 0 0 0 -0.315,0.338 v 0.677 c 0,0.18 0.14,0.34 0.34,0.34 h 2.014 c 0.18,0 0.318,-0.16 0.318,-0.34 v -0.677 c 0,-0.18 -0.14,-0.338 -0.34,-0.338 H 2.291 a 0.339,0.339 0 0 0 -0.025,0 z m 17.425,0 a 0.339,0.339 0 0 0 -0.314,0.338 v 0.677 c 0,0.18 0.14,0.34 0.34,0.34 h 1.992 c 0.18,0 0.34,-0.16 0.34,-0.34 v -0.677 c 0,-0.18 -0.14,-0.338 -0.34,-0.338 h -2.014 a 0.339,0.339 0 0 0 -0.004,0 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

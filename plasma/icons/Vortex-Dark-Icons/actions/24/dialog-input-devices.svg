@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+  <g transform="translate(1,1)">
+    <g class="ColorScheme-Text" fill="currentColor">
+      <path d="m 5,3 v 5 h 15 c 0,0 0,4 0,6 0,2 -2,2 -2,2 v -5 h -1 v 5 H 9 v 1 h 8 v 1 h 1 v -1 c 0,0 3,0 3,-3 0,-3 0,-11 0,-11 z M 6,4 H 20 V 7 H 6 V 5 Z M 7,5 V 6 H 9 V 5 Z m 10,0 v 1 h 2 V 5 Z"/>
+      <path d="M4.5 9A3.5 3.5 0 0 0 1 12.5v3a3.5 3.5 0 1 0 7 0v-3A3.5 3.5 0 0 0 4.5 9zm0 1A2.5 2.5 0 0 1 7 12.5v3a2.5 2.5 0 1 1-5 0v-3A2.5 2.5 0 0 1 4.5 10z"/>
+      <path d="M4 11h1v2H4z"/>
+    </g>
+  </g>
+</svg>

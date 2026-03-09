@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#2e3436">
+  <path d="m14.994 16h1v-1l-7-7-1 1z" fill-rule="evenodd"/>
+  <path d="m6.994 0.586-6.414 6.414 1.414 1.414 6.414-6.414z" fill-rule="evenodd" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
+  <path d="M6.752 15.243a6 6 0 0 1 0-8.486 6 6 0 0 1 8.485 0L10.994 11z"/>
+  <path d="M1.922 6.995l5.7 4.433 3.8-3.8L6.994 2z" fill-rule="evenodd"/>
+ </g>
+</svg>

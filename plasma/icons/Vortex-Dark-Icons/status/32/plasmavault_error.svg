@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"   width="32" height="32">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-NegativeText {color:#da4453;}</style>
+    <g id="plasmavault_error" transform="translate(0,1e-06)">
+        <path id="rect4230" d="m0-1e-6h32.000004v32h-32.000004z" fill="none"/>
+        <path id="path875" d="m 4,7.999999 c 0,4 0,16 0,16 0,0 0,4 4,4 4,0 12,0 16,0 4,0 4,-4 4,-4 v -13 c 0,0 0,-4 -4,-4 -4,0 -7,1e-6 -7,1e-6 l -3,-3 -6,-1e-6 c 0,0 -4,0 -4,4 z m 1,0 c 0,-3 3,-3 3,-3 L 13.585938,5 15.792969,7.2070312 10,13 H 5 C 5,13 5,10.999999 5,7.999999 Z M 21,13 c 2.209139,0 4,1.790861 4,4 v 3 c 0,0 2,-1e-6 2,1.999999 0,2 0,1 0,3 0,2 -2,2 -2,2 h -8 c 0,0 -2,0 -2,-2 0,-2 0,-1 0,-3 C 15,19.999999 17,20 17,20 v -3 c 0,-2.209139 1.790861,-4 4,-4 z m 0,1 c -1.656904,1.71e-4 -3,1.343267 -3,3 v 3 h 6 v -3 c 0,-1.656733 -1.343096,-2.999829 -3,-3 z" class="ColorScheme-NegativeText" fill="currentColor"/>
+    </g>
+</svg>

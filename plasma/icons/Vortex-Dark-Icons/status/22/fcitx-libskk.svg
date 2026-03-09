@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <g id="fcitx-libskk" transform="translate(44.021484,-103.97851) translate(-44.0215,-66.0215)">
+    <rect style="fill:none;fill-opacity:1;stroke:none" id="rect4493" width="22" height="22" x="-2.4709701e-09" y="170"/>
+    <path class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" d="m 50.0215,81.021484 c -3,1e-5 -3.000016,3.00001 -3.000016,3.00001 v 10 c 0,0 1.6e-5,3 3.000016,2.99999 3,-1e-5 7,-1e-5 10,0 3,1e-5 2.999984,-2.99999 2.999984,-2.99999 v -10 c 0,0 1.6e-5,-3 -2.999984,-3.00001 -3,-1e-5 -7,-1e-5 -10,0 z m -2.000016,3.00001 c 0,0 1.6e-5,-2 2.000016,-2.00001 2,-1e-5 8,-1e-5 10,0 2,1e-5 1.999984,2.00001 1.999984,2.00001 v 10 c 0,0 1.6e-5,2 -1.999984,1.99999 -2,-1e-5 -8,-1e-5 -10,0 -2,1e-5 -2.000016,-1.99999 -2.000016,-1.99999 z M 53,85 v 3 3 2 h 1 V 90.707031 L 56.292969,93 H 57 57.707031 58 V 90.707031 L 60.292969,93 h 1.414062 l -3,-3 3,-3 H 60.292969 L 58,89.292969 V 85 h -1 v 2 H 56.292969 L 54,89.292969 V 85 Z m 0,6 C 53,90.41666 52.846367,89.889334 52.478516,89.521484 52.110665,89.153634 51.583333,89 51,89 50.583333,89 50.360665,88.903604 50.228516,88.771484 50.096367,88.639334 50,88.41666 50,88 50,87.58333 50.096367,87.360666 50.228516,87.228516 50.360665,87.096366 50.583333,87 51,87 c 0.416667,0 0.639335,0.09641 0.771484,0.228516 C 51.903633,87.360666 52,87.58333 52,88 h 1 C 53,87.41666 52.846367,86.889334 52.478516,86.521484 52.110665,86.153634 51.583333,86 51,86 50.416667,86 49.889335,86.153634 49.521484,86.521484 49.153633,86.889334 49,87.41666 49,88 c 0,0.58333 0.153633,1.110666 0.521484,1.478516 C 49.889335,89.846366 50.416667,90 51,90 c 0.416667,0 0.639335,0.09641 0.771484,0.228516 C 51.903633,90.360666 52,90.58333 52,91 52,91.41666 51.90363,91.639334 51.771484,91.771484 51.639335,91.903634 51.416667,92 51,92 50.583333,92 50.360665,91.903604 50.228516,91.771484 50.096367,91.639334 50,91.41666 50,91 h -1 c 0,0.58333 0.153633,1.110666 0.521484,1.478516 C 49.889335,92.846366 50.416667,93 51,93 51.583333,93 52.110665,92.846366 52.478516,92.478516 52.846367,92.110666 53,91.58333 53,91 Z m 4,-3.292969 v 4.585938 L 54.707031,90 Z" transform="translate(-44.021484,91.978516)" id="path4495"/>
+  </g>
+</svg>

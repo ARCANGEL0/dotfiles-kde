@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="window-close-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="28.545455"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.49817"
+     class="ColorScheme-Text"
+     d="M 12.493049,2 A 1.4981711,1.4981711 0 0 0 11.433796,2.4389172 L 7.998537,5.8741771 4.577908,2.4535478 A 1.4981711,1.4981711 0 0 0 4.563278,2.4389168 1.4981711,1.4981711 0 0 0 3.512803,2.0058518 l -0.01463,0.020483 A 1.4981711,1.4981711 0 0 0 2,3.5245061 1.4981711,1.4981711 0 0 0 2.438918,4.5837598 L 5.874177,8.019019 2.438918,11.454279 A 1.4981711,1.4981711 0 0 0 2.005853,12.501829 1.4981711,1.4981711 0 0 0 3.504024,14 1.4981711,1.4981711 0 0 0 4.563278,13.561082 l 3.435259,-3.43526 3.420628,3.420629 A 1.4981711,1.4981711 0 0 0 12.493049,14 1.4981711,1.4981711 0 0 0 13.991221,12.501829 1.4981711,1.4981711 0 0 0 13.552304,11.442574 L 10.10534,7.998536 13.525968,4.5779076 A 1.4981711,1.4981711 0 0 0 13.991221,3.4981711 1.4981711,1.4981711 0 0 0 12.493049,2 Z"
+     id="path5" />
+</svg>

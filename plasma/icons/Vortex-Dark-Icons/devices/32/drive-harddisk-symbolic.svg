@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="32" height="32">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#eff0f1;}</style>
+    <g id="drive" transform="translate(-22,0)">
+        <path id="path14" d="m22 0v32h32v-32z" fill="none"/>
+        <path id="path927" d="m 29,8 c 0,4 0,14 0,17 0,3 4,3 4,3 l 10,0 c 0,0 4,0 4,-4 C 47,20 47,12 47,8 47,4 43,4 43,4 H 33 c 0,0 -4,0 -4,4 z m 5,-3 h 8 c 2.209139,0 4,1.790861 4,4 v 3.054688 C 44.837558,12.291969 44.001983,13.31359 44,14.5 c 1.29e-4,1.187878 0.836122,2.211643 2,2.449219 V 21 l -4,4 H 34 L 30,21 V 16.945312 C 31.162442,16.708031 31.998017,15.68641 32,14.5 31.999871,13.312122 31.163878,12.288357 30,12.050781 V 9 c 0,-2.209139 1.790861,-4 4,-4 z m -2,21 h 7 v 1 h -7 z m 9,0 h 3 v 1 h -3 z" class="ColorScheme-Text" fill="currentColor"/>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3699" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4339">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+ </defs>
+ <metadata id="metadata3704">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1036.4)">
+  <path id="path4303" class="ColorScheme-Text" style="fill:currentColor" d="M 7,2 C 5,2 5,4 5,4 V 9 H 6 V 5 c 0,0 0,-1 1,-1 1,0 4,0 5,0 1,0 1,1 1,1 v 4 h 1 V 4 C 14,4 14,2 12,2 10,2 9,2 7,2 Z M 2.0859,9.3008 1.3789,10.008 2.793,11.422 1.3789,12.836 2.0859,13.543 3.5,12.129 4.9141,13.543 5.6211,12.836 4.207,11.422 5.6211,10.008 4.9141,9.3008 3.5,10.715 Z m 8.0001,0 -0.7071,0.7072 1.4141,1.414 -1.4141,1.414 0.7071,0.707 1.414,-1.414 1.414,1.414 0.707,-0.707 -1.414,-1.414 1.414,-1.414 L 12.914,9.3008 11.5,10.715 Z" transform="translate(0,1036.4)"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vorlie"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Audio Visualizer Widget",
+        "Icon": "icon",
+        "Id": "org.kde.plasmoid-visualizer",
+        "Name": "Plasmoid Visualizer",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

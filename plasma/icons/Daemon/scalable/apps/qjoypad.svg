@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-gaming.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 11 13 L 9.2753906 21.623047 L 7 33 C 8.5532819 34.416831 10.066071 35.872604 14 35 L 19 26 L 29 26 L 34 35 C 37.933929 35.872604 39.446718 34.416831 41 33 L 38.636719 21.181641 L 37 13 L 11 13 z M 31 15 A 0.99999994 0.99999994 0 0 1 32 16 A 0.99999994 0.99999994 0 0 1 31 17 A 0.99999994 0.99999994 0 0 1 30 16 A 0.99999994 0.99999994 0 0 1 31 15 z M 16 16 L 18 16 L 18 18 L 20 18 L 20 20 L 18 20 L 18 22 L 16 22 L 16 20 L 14 20 L 14 18 L 16 18 L 16 16 z M 28 18 A 0.99999994 0.99999994 0 0 1 29 19 A 0.99999994 0.99999994 0 0 1 28 20 A 0.99999994 0.99999994 0 0 1 27 19 A 0.99999994 0.99999994 0 0 1 28 18 z M 34 18 A 0.99999994 0.99999994 0 0 1 35 19 A 0.99999994 0.99999994 0 0 1 34 20 A 0.99999994 0.99999994 0 0 1 33 19 A 0.99999994 0.99999994 0 0 1 34 18 z M 31 21 A 0.99999994 0.99999994 0 0 1 32 22 A 0.99999994 0.99999994 0 0 1 31 23 A 0.99999994 0.99999994 0 0 1 30 22 A 0.99999994 0.99999994 0 0 1 31 21 z "
+     transform="scale(0.26458333)"
+     id="path828" />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-remote-desktop.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 40.464844 37 L 38 37 L 34 37 L 31 37 C 31 36.445999 30.554001 36 30 36 L 29 36 L 29 34 L 36 34 C 37.108 34 38 32.662 38 31 L 38 15 C 38 13.338 37.108 12 36 12 L 12 12 C 10.892 12 10 13.338 10 15 L 10 31 C 10 32.662 10.892 34 12 34 L 19.234375 34 L 19.234375 36 L 18 36 C 17.445999 36 17 36.445999 17 37 L 14 37 L 7.5117188 37 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 13 14 L 35 14 C 35.553999 14 36 14.446 36 15 L 36 31 C 36 31.554 35.553999 32 35 32 L 13 32 C 12.446001 32 12 31.554 12 31 L 12 15 C 12 14.446 12.446001 14 13 14 z M 27 18 C 26.446001 18 26 18.446 26 19 L 26 22 C 26 22.554 26.446001 23 27 23 L 32 23 C 32.553999 23 33 22.554 33 22 L 33 19 C 33 18.446 32.553999 18 32 18 L 27 18 z M 17 21 C 16.446001 21 16 21.446 16 22 L 16 27 C 16 27.554 16.446001 28 17 28 L 22 28 C 22.553999 28 23 27.554 23 27 L 23 22 C 23 21.446 22.553999 21 22 21 L 17 21 z M 9.3320312 39 L 14 39 L 17 39 L 17 40 C 17 40.554001 17.445999 41 18 41 L 30 41 C 30.554001 41 31 40.554001 31 40 L 31 39 L 34 39 L 36 39 L 38.691406 39 A 21 21 0 0 1 24 45 A 21 21 0 0 1 9.3320312 39 z "
+     transform="scale(0.26458333)"
+     id="path822" />
+</svg>

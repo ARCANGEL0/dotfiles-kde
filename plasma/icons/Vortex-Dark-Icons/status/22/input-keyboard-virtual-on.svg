@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <g id="22-22-input-keyboard-virtual-on" transform="translate(16,42.000007) translate(-16,-42)">
+        <path class="ColorScheme-Text" transform="translate(0,-1030.3622)" d="m 2,1040.3622 v 6 c 0,0 0,3 3,3 3,0 9,0 12,0 3,0 3,-3 3,-3 v -6 c 0,0 0,-2 -2,-2 -2,0 -12,0 -14,0 -2,0 -2,2 -2,2 z m 2,-1 c 1,0 13,0 14,0 1,0 1,1 1,1 H 3 c 0,0 0,-1 1,-1 z m -1,2 h 16 v 5 c 0,0 0,2 -2,2 -2,0 -10,0 -12,0 -2,0 -2,-2 -2,-2 z m 1,1 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m -12,2 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m -12,2 v 1 h 2 v -1 z m 3,0 v 1 h 8 v -1 z m 9,0 v 1 h 2 v -1 z" fill="currentColor"/>
+        <path d="M 4.5,2 A 2.4999997,2.4999855 0 0 0 2,4.5 2.4999997,2.4999855 0 0 0 4.5,7 2.4999997,2.4999855 0 0 0 7,4.5 2.4999997,2.4999855 0 0 0 4.5,2 Z" fill="#11d116"/>
+        <rect width="22" height="22" fill="none"/>
+    </g>
+</svg>

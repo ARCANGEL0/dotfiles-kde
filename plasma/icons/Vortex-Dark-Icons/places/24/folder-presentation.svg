@@ -1,0 +1,8 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 24 24" version="1.1" id="svg6" sodipodi:docname="folder-presentation.svg" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" width="24" height="24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme"> .ColorScheme-Text { color:#eff0f1; } </style>
+  </defs>
+  <g transform="translate(1,1)">
+    <path style="fill:currentColor;fill-opacity:1" d="M 6,3 C 6,3 3,3 3,6 v 10 c 0,3 3,3 3,3 h 10 c 0,0 3,0 3,-3 V 6 C 19,6 19,3 16,3 Z M 4,6 C 4,4 6,4 6,4 h 10 c 0,0 2,0 2,2 0,2 0,8 0,10 0,2 -2,2 -2,2 H 6 C 6,18 4,18 4,16 4,14 4,8 4,6 Z m 8,-1 v 5 h 5 C 17,7.2385763 14.761424,5 12,5 Z m -1,1 c -2.7614237,0 -5,2.2385763 -5,5 0,2.761424 2.2385763,5 5,5 2.761424,0 5,-2.238576 5,-5 H 15 11 V 7 Z M 10,7.1308594 V 12 h 1 3.867188 C 14.411731,13.763986 12.821835,14.99736 11,15 8.790861,15 7,13.209139 7,11 7.0017511,9.1774378 8.2353107,7.5864993 10,7.1308594 Z" class="ColorScheme-Text" id="path4"/>
+  </g>
+</svg>

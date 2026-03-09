@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="redshift.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <path
+     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+  <path
+     d="M 5.046,8.202 C 5.026,8.203 5.016,8.214 5.017,8.24 4.907,8.285 4.941,8.376 4.959,8.61 c 0.01,0.123 0.14,0.198 0.316,0.253 -0.2,0.142 -0.327,0.29 -0.316,0.428 0.01,0.121 0.137,0.204 0.31,0.26 -0.196,0.14 -0.321,0.292 -0.31,0.427 0.013,0.148 0.246,0.306 0.724,0.377 v 0.235 c 0,0.308 0.314,0.581 0.667,0.581 0.353,0 0.667,-0.273 0.667,-0.58 V 10.337 C 7.415,10.275 7.707,10.16 7.74,9.978 7.759,9.873 7.673,9.774 7.54,9.687 7.64,9.586 7.71,9.484 7.701,9.389 7.691,9.267 7.566,9.185 7.391,9.129 7.587,8.989 7.713,8.837 7.701,8.701 7.691,8.591 7.743,8.461 7.625,8.396 7.606,8.406 7.59,8.406 7.583,8.377 L 7.579,8.367 C 7.566,8.215 7.141,8.679 6.434,8.63 5.798,8.732 5.184,8.199 5.046,8.202 Z m 2.537,0.175 a 0.2,0.2 0 0 1 0.042,0.02 C 7.671,8.37 7.717,8.282 7.583,8.377 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+  <path
+     d="m 6.35,1.83 c -1.66,0 -3.008,1.315 -3.008,2.935 0,1.66 1.218,1.844 1.218,2.456 0,0.719 0.715,1.534 1.89,1.505 C 7.699,8.695 8.215,7.986 8.215,7.221 8.215,6.567 9.358,6.55 9.358,4.765 9.358,3.145 8.01,1.83 6.35,1.83 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="opacity:0.75;fill:#ff2a2a;stroke:#5beedc;stroke-width:0.22" />
+  <path
+     d="M 7.532,6.463 A 0.123,0.123 0 0 0 7.448,6.518 C 7.041,6.908 6.501,6.908 6.042,6.806 5.582,6.703 5.227,6.496 5.227,6.496 A 0.124,0.124 0 0 0 5.142,6.478 0.118,0.118 0 0 0 5.07,6.524 C 5.036,6.554 5.019,6.598 5.034,6.643 L 5.838,9.029 C 5.86,9.093 5.925,9.136 5.991,9.115 6.056,9.093 6.099,9.029 6.077,8.965 L 5.357,6.828 c 0.159,0.07 0.38,0.153 0.633,0.21 0.4,0.09 0.888,0.107 1.316,-0.124 L 6.624,8.939 C 6.602,9.003 6.645,9.067 6.71,9.089 6.776,9.11 6.84,9.067 6.863,9.003 L 7.667,6.618 C 7.689,6.553 7.645,6.488 7.58,6.467 A 0.114,0.114 0 0 0 7.532,6.463 Z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="opacity:0.75;fill:#5beedc" />
+  <path
+     d="m 6.35,1.83 c -1.66,0 -3.008,1.315 -3.008,2.935 0,1.66 1.218,1.844 1.218,2.456 0,0.719 0.715,1.534 1.89,1.505 C 7.699,8.695 8.215,7.986 8.215,7.221 8.215,6.567 9.358,6.55 9.358,4.765 9.358,3.145 8.01,1.83 6.35,1.83 Z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#5beedc;stroke-width:0.22" />
+</svg>

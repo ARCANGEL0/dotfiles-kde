@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-sound.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 24 8 A 15.999999 15.999999 0 0 0 8 24 A 15.999999 15.999999 0 0 0 24 40 L 24 8 z M 27 8.4335938 L 27 10.496094 A 13.499999 14 0 0 1 37 24 A 13.499999 14 0 0 1 27 37.515625 L 27 39.570312 A 15.5 15.999999 0 0 0 39 24 A 15.5 15.999999 0 0 0 27 8.4335938 z M 27 12.583984 L 27 14.712891 A 9.4999999 9.9999995 0 0 1 33 24 A 9.4999999 9.9999995 0 0 1 27 33.292969 L 27 35.425781 A 11.5 12 0 0 0 35 24 A 11.5 12 0 0 0 27 12.583984 z M 27 16.929688 L 27 19.375 A 5.4999997 5.9999997 0 0 1 29 24 A 5.4999997 5.9999997 0 0 1 27 28.621094 L 27 31.070312 A 7.4999998 7.9999994 0 0 0 31 24 A 7.4999998 7.9999994 0 0 0 27 16.929688 z "
+     transform="scale(0.26458333)"
+     id="path831" />
+</svg>

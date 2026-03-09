@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="fwupd.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 11 11 L 11 15 L 7 15 L 7 17 L 11 17 L 11 19 L 7 19 L 7 21 L 11 21 L 11 23 L 7 23 L 7 25 L 11 25 L 11 27 L 7 27 L 7 29 L 11 29 L 11 31 L 7 31 L 7 33 L 11 33 L 11 37 L 13 37 L 13 33 L 15 33 L 15 37 L 17 37 L 17 33 L 19 33 L 19 37 L 21 37 L 21 33 L 23 33 L 23 37 L 25 37 L 25 33 L 27 33 L 27 37 L 29 37 L 29 33 L 31 33 L 31 37 L 33 37 L 33 33 L 35 33 L 35 37 L 37 37 L 37 33 L 41 33 L 41 31 L 37 31 L 37 29 L 41 29 L 41 27 L 37 27 L 37 25 L 41 25 L 41 23 L 37 23 L 37 21 L 41 21 L 41 19 L 37 19 L 37 17 L 41 17 L 41 15 L 37 15 L 37 11 L 35 11 L 35 15 L 33 15 L 33 11 L 31 11 L 31 15 L 29 15 L 29 11 L 27 11 L 27 15 L 25 15 L 25 11 L 23 11 L 23 15 L 21 15 L 21 11 L 19 11 L 19 15 L 17 15 L 17 11 L 15 11 L 15 15 L 13 15 L 13 11 L 11 11 z M 15 20 L 32 20 L 32 22 L 15 22 L 15 20 z M 15 23 L 32 23 L 32 25 L 15 25 L 15 23 z M 15 26 L 32 26 L 32 28 L 15 28 L 15 26 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

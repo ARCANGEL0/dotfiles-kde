@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g id="kpackagekit-updates" transform="translate(0,2.66454e-15)">
+      <g id="g4220">
+        <path style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 7,7 -3,3 v 6 c 0,0 0,3 3,3 3,0 5,0 8,0 3,0 3.099609,-3 3.099609,-3 l 0,-6 -3,-3 H 13 9.0996094 Z m 0.3,1 h 3.7 3.7 l 2,2 H 5.3 Z M 9,11 h 4 v 5 l -1,-1 -1,1 -1,-1 -1,1 z" id="path4149" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccccccc" class="ColorScheme-Text"/>
+        <path style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:none" d="M 16,3 A 3,3 0 0 0 13,6 3,3 0 0 0 16,9 3,3 0 0 0 19,6 3,3 0 0 0 16,3 Z" id="path4180" inkscape:connector-curvature="0"/>
+        <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" d="m 16,4 2,2 -1,0 0,2 -2,0 0,-2 -1,0 1,-1 1,-1 z" id="path4167" inkscape:connector-curvature="0" class="ColorScheme-Background"/>
+      </g>
+      <rect style="opacity:1;fill:none;fill-opacity:0.59905659;stroke:none" id="rect4212" width="22" height="22" x="0" y="-2.6645353e-15"/>
+    </g>
+  </g>
+</svg>

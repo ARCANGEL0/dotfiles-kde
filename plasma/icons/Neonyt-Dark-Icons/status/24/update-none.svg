@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="update-none.svg"
+   id="svg9"
+   viewBox="0 0 24 24"
+   version="1.1">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg9"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="12"
+     inkscape:cx="12"
+     inkscape:zoom="31.25463"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#eff0f1;
+      }</style>
+  </defs>
+  <g
+     id="g7"
+     transform="translate(1,1)">
+    <path
+       style="fill:#d3dae3;fill-opacity:1"
+       id="path5"
+       d="m10.998047 6 4 4h-2v5h-4.0000001v-5h-2zm5.481971-0.4945913-2.480469 0.298829 0.5-0.867188c-2.9696-1.7145-6.7364095-1.027347-8.9121085 1.623047-2.1757 2.650394-2.113716 6.4760703 0.146484 9.0546873l-0.751953 0.658203c-2.5783-2.941475-2.649769-7.3262723-0.167969-10.349609 2.4818-3.023285 6.7980465-3.807312 10.185546-1.851562l0.5-0.865235zm2.517578 5.3671883c0.02996 1.841775-0.573553 3.69341-1.814453 5.205078-2.4819 3.023284-6.796094 3.807312-10.183594 1.851562l-0.5 0.865235-0.982422-2.298828 2.482422-0.298829-0.5 0.865235c2.9695995 1.7145 6.7344565 1.029299 8.9101565-1.621094s2.113715-6.4760703-0.146485-9.0546873l0.751953-0.658203c1.28915 1.470738 1.95246 3.302755 1.982422 5.1445313z"
+       fill="currentColor"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

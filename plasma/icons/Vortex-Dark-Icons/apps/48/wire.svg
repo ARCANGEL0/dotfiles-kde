@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="wire.svg"
+   inkscape:version="1.4.1 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.041667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient4195">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient3911"
+       cx="27"
+       cy="24"
+       r="11"
+       gradientTransform="matrix(0.81818154,0,0,0.90909122,388.48052,501.97981)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#334545;stop-opacity:1"
+         id="stop3" />
+      <stop
+         offset="1"
+         style="stop-color:#172525;stop-opacity:1"
+         id="stop4" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient3997"
+       y1="1"
+       x2="0"
+       y2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(326.41705,498.60847)">
+      <stop
+         style="stop-color:#e0e5e7;stop-opacity:1"
+         id="stop5" />
+      <stop
+         offset="1"
+         style="stop-color:#c6cdd1;stop-opacity:1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3997"
+       id="linearGradient4196"
+       x1="401.579"
+       y1="505.239"
+       x2="418.614"
+       y2="540.911"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-384.60702,-499.83641)" />
+    <linearGradient
+       xlink:href="#radialGradient3911"
+       id="linearGradient4538"
+       x1="23.576"
+       y1="15.864"
+       x2="25.441"
+       y2="30.712"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient4195"
+       id="linearGradient4557"
+       x1="19.162"
+       y1="9.196"
+       x2="36.762"
+       y2="26.797"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.05,0,0,1.05,-1.2,-1.2)">
+    <rect
+       width="40"
+       x="4"
+       y="4"
+       rx="20"
+       height="40"
+       style="fill:url(#linearGradient4196)"
+       id="rect6" />
+    <path
+       style="opacity:0.3;fill:url(#linearGradient4557);stroke-width:1.98088;stroke-linecap:round;stroke-linejoin:round"
+       d="m 14.992188,15.019531 -1.121094,1.121094 0.125,11.216797 0.404297,0.734375 -0.695313,0.558594 0.511719,1.871093 13.1875,13.1875 c 9.441888,-1.607775 16.588096,-9.782805 16.59375,-19.695312 l -8.994141,-8.994141 -1.33789,1.337891 -0.291016,6.71289 -7.398438,-7.398437 -3.267578,0.771484 -0.910156,5.382813 z"
+       id="path6" />
+    <path
+       d="M 4.0117188,23.5 C 4.007647,23.666859 4,23.832126 4,24 4,35.079992 12.920008,44 24,44 35.079992,44 44,35.079992 44,24 44,23.832126 43.9924,23.666859 43.98828,23.5 43.724099,34.346571 34.912435,43 24,43 13.087565,43 4.2759007,34.346571 4.0117188,23.5 Z"
+       style="opacity:0.15"
+       id="path7" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4538);stroke-width:2"
+       d="m 14,15 v 12 c 0,0 0,5 6,5 6,0 6,-5 6,-5 v -9 c 0,0 0,-2 -2,-2 -2,0 -2,2 -2,2 v 9 c 0,0 0,5 6,5 6,0 6,-5 6,-5 V 15"
+       id="path8" />
+  </g>
+</svg>

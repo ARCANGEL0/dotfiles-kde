@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7384" width="16" height="16" style="enable-background:new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icons</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Gnome Symbolic Icons</title>
+ <g id="layer2" transform="translate(-312 -348)">
+  <path id="path3793" d="m316 348c-1.0092 5e-3 -1 1-1 1v12c0 6e-3 2e-3 0.01 2e-3 0.0156v0.13672c0 1.0234 0.85663 1.8477 1.9199 1.8477h5.1582c1.0632 0 1.9199-0.82424 1.9199-1.8477v-8.1523c0-1.0234-0.93671-2-2-2h-5v-2s-9e-3 -0.99447-1-1zm1.7539 5h3.4961c0.41622 0 0.75195 0.33573 0.75195 0.75195v1.4961c0 0.41622-0.33573 0.75195-0.75195 0.75195h-3.4961c-0.41622 0-0.75195-0.33573-0.75195-0.75195v-1.4961c0-0.41622 0.33573-0.75195 0.75195-0.75195zm-0.25195 5h1.1426c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1.1426c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm2.8574 0h1.1426c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1.1426c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm-2.8574 2h1.1426c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1.1426c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm2.8574 0h1.1426c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1.1426c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="color:#000000;enable-background:accumulate;fill:#2e3436"/>
+ </g>
+</svg>

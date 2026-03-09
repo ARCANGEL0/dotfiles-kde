@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }
+      </style>
+    <g id="network-vpn" transform="translate(-22,-128)">
+    <rect style="opacity:1;fill:none;fill-opacity:1;stroke:none" id="rect6813" width="22.000004" height="22.000004" x="22.000002" y="127.99998"/>
+    <path class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" d="m 33.000002,130.99999 c 0,0 -2,2.65752 -8,3.32422 0,0 0,9.33388 8,12.67578 8,-3.3419 8,-12.67578 8,-12.67578 -6,-0.6667 -8,-3.32422 -8,-3.32422 z m 0,1.37695 c 1.587,1.3447 3.87716,2.24176 6.8457,2.69336 -0.16126,1.4452 -0.31587,2.53279 -0.68945,3.58399 -0.78509,2.2091 -1.70047,3.55303 -2.52148,4.51953 -1.27223,1.4977 -2.42758,2.10383 -3.63477,2.70703 -1.20719,-0.6032 -2.36254,-1.20933 -3.63477,-2.70703 -0.821,-0.9665 -1.73639,-2.31043 -2.52148,-4.51953 -0.37358,-1.0512 -0.52819,-2.13879 -0.68945,-3.58399 2.96854,-0.5516 5.2587,-1.34866 6.8457,-2.69336 z m 0,1.19922 c -1.74349,1.2103 -3.70215,1.82324 -5.66797,2.24024 0.93085,5.282 2.93609,7.54067 5.66797,8.95507 2.73189,-1.4144 4.73712,-3.67307 5.66797,-8.95507 -1.96582,-0.417 -3.92448,-1.02994 -5.66797,-2.24024 z" id="path4943-9-4-1-2"/>
+  </g>
+</svg>

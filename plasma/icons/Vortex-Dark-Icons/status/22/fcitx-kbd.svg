@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <g id="fcitx-kbd" transform="translate(154,66.000027) translate(-154,-66)">
+    <rect style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="rect4209" width="22" height="22" x="0" y="0"/>
+    <path style="fill:currentColor;fill-opacity:1;stroke:none" d="m 13,1033.3622 v 1 1 c 0,0.554 -0.446,1 -1,1 -1.108,0 -2,0.892 -2,2 0,0 -4,0 -6,0 -2,0 -2,2 -2,2 v 6 c 0,0 0,3 3,3 3,0 9,0 12,0 3,0 3,-3 3,-3 v -6 c 0,0 0,-2 -2,-2 -2,0 -7,0 -7,0 0,-0.554 0.446,-1 1,-1 1.108,0 2,-0.892 2,-2 v -1 -1 z m -9,6 c 1,0 6,0 6,0 h 1 c 0,0 6,0 7,0 1,0 1,1 1,1 H 3 c 0,0 0,-1 1,-1 z m -1,2 h 16 v 5 c 0,0 0,2 -2,2 -2,0 -10,0 -12,0 -2,0 -2,-2 -2,-2 z m 1,1 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m -12,2 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m -12,2 v 1 h 2 v -1 z m 3,0 v 1 h 8 v -1 z m 9,0 v 1 h 2 v -1 z" transform="translate(0,-1030.3622)" class="ColorScheme-Text" id="path4211"/>
+  </g>
+</svg>

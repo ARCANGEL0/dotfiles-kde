@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1"
+   id="svg8"
+   sodipodi:docname="audio-speaker-left-side.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="M 24.03,4 A 20,20 0 0 0 4,23.938 20,20 0 0 0 23.908,44 L 24,24 Z" />
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc;opacity:0.5"
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 31.162,5.367 -0.609,2.44 A 17.5,17.5 0 0 1 41.5,24.025 17.5,17.5 0 0 1 30.551,40.22 l 0.607,2.438 A 20,20 0 0 0 44,24.025 20,20 0 0 0 31.162,5.367 Z m 1.151,9.364 -1.35,2.148 A 10,10 0 0 1 34,24.025 10,10 0 0 1 30.976,31.178 l 1.344,2.158 a 12.5,12.5 0 0 0 4.18,-9.31 12.5,12.5 0 0 0 -4.187,-9.295 z" />
+</svg>

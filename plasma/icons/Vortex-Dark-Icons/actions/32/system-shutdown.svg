@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="system-shutdown.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.015625"
+     inkscape:cx="15.313394"
+     inkscape:cy="16.686606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+  </defs>
+  <g
+     id="system-shutdown">
+    <path
+       style="color:#000000;overflow:visible;opacity:0;fill:none;fill-opacity:1;stroke-width:1.06667"
+       id="path945"
+       overflow="visible"
+       d="M 16,0 C 7.17141,0 0,7.1714133 0,16 0,24.828587 7.17141,32 16,32 24.82859,32 32,24.828587 32,16 32,7.1714133 24.82859,0 16,0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#31363b;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.5"
+       d="m 14.500006,4.1 v 10.500006 h 2.999988 V 4.1 Z m -1.50001,0.398448 C 7.8166925,5.82534 4,10.491532 4,16.1 c 0,6.647993 5.352007,12 12,12 6.647994,0 12,-5.352007 12,-12 C 28,10.491532 24.183299,5.82534 19.000004,4.498448 v 1.555653 c 4.342547,1.285767 7.499987,5.275343 7.499987,10.045899 0,5.816989 -4.683006,10.499987 -10.499991,10.499987 -5.816991,0 -10.4999855,-4.682998 -10.4999855,-10.499987 0,-4.770556 3.1574392,-8.760132 7.4999815,-10.045899 z"
+       class="ColorScheme-Text"
+       id="path47-7" />
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 45.000003 44.999997"
+   enable-background="new 0 0 196.6 72"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="goa-account-owncloud.svg"
+   width="48"
+   height="48"
+   inkscape:export-filename="nextcloud-icon-1024.png"
+   inkscape:export-xdpi="612.79999"
+   inkscape:export-ydpi="612.79999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <metadata
+   id="metadata20">
+        <rdf:RDF>
+            <cc:Work
+   rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+   id="defs18">
+        <linearGradient
+   inkscape:collect="always"
+   id="linearGradient857">
+            <stop
+   style="stop-color:#0082c9;stop-opacity:1;"
+   offset="0"
+   id="stop853" />
+            <stop
+   style="stop-color:#1cafff;stop-opacity:1"
+   offset="1"
+   id="stop855" />
+        </linearGradient>
+        <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath8812">
+            <circle
+   id="circle8814"
+   cx="95.669289"
+   cy="95.669296"
+   r="79.724197"
+   style="fill:#00080d;fill-opacity:1;stroke-width:1" />
+        </clipPath>
+        <linearGradient
+   gradientTransform="matrix(0.2469451,0,0,0.2469451,22.500002,22.5)"
+   inkscape:collect="always"
+   xlink:href="#linearGradient857"
+   id="linearGradient1192"
+   gradientUnits="userSpaceOnUse"
+   x1="18.230097"
+   y1="150"
+   x2="150.00002"
+   y2="-7.6293945e-06" />
+    </defs>
+    <sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   id="namedview16"
+   showgrid="false"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="57.982757"
+   inkscape:cy="72.831999"
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   units="px"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="true"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-bbox-edge-midpoints="true"
+   inkscape:snap-bbox-midpoints="true"
+   inkscape:snap-page="true"
+   inkscape:document-rotation="0"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+    <circle
+   r="19.6875"
+   cy="22.5"
+   cx="22.5"
+   id="circle1050"
+   style="opacity:1;fill:url(#linearGradient1192);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0246945;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:export-filename="nextcloud-icon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300" />
+    <path
+   inkscape:connector-curvature="0"
+   id="path1052"
+   d="m 22.525273,14.951494 c -3.437368,0 -6.350823,2.33031 -7.253799,5.487615 -0.784781,-1.674682 -2.485429,-2.847938 -4.44428,-2.847938 -2.6938817,0 -4.9083235,2.214442 -4.9083235,4.908323 0,2.693879 2.2144418,4.909331 4.9083235,4.909331 1.958851,0 3.659499,-1.173973 4.44428,-2.84895 0.902976,3.157546 3.816431,5.488631 7.253799,5.488631 3.411948,0 6.310548,-2.295927 7.23662,-5.417859 0.799279,1.636952 2.478875,2.778178 4.409904,2.778178 2.693883,0 4.909332,-2.215452 4.909332,-4.909331 0,-2.693881 -2.215449,-4.908323 -4.909332,-4.908323 -1.931029,0 -3.610625,1.140511 -4.409904,2.77717 -0.926072,-3.121688 -3.824672,-5.416847 -7.23662,-5.416847 z m 0,2.881302 c 2.594826,0 4.667711,2.071881 4.667711,4.666698 0,2.594814 -2.072885,4.667708 -4.667711,4.667708 -2.59481,0 -4.666691,-2.072894 -4.666691,-4.667708 0,-2.594817 2.071881,-4.666697 4.666691,-4.666698 z m -11.698079,2.639676 c 1.136848,0 2.028031,0.890169 2.028031,2.027022 0,1.13685 -0.891183,2.02803 -2.028031,2.02803 -1.1368495,0 -2.0270275,-0.89118 -2.0270275,-2.02803 0,-1.136853 0.890178,-2.027022 2.0270275,-2.027022 z m 23.344603,0 c 1.136861,0 2.028037,0.890169 2.028037,2.027022 0,1.13685 -0.891182,2.02803 -2.028037,2.02803 -1.136841,0 -2.027015,-0.89118 -2.027015,-2.02803 0,-1.136853 0.890176,-2.027022 2.027015,-2.027022 z"
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.62064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   inkscape:export-filename="Nextcloud Hub logo variants.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300" />
+</svg>

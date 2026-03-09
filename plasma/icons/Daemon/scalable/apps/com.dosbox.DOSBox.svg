@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="dosbox.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.37 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.36 6.29,6.29 0 0 0 6.34,0.07 Z M 6.32,1 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92,6.42 5.4,5.4 0 0 1 6.32,1 Z M 5.26,1.7 V 2.04 H 5.6 V 4.1 H 5.26 V 4.45 H 6.98 V 4.1 H 7.32 V 2.04 H 6.98 V 1.7 Z M 6.29,2.04 H 6.63 V 4.1 H 6.3 V 2.04 Z M 2.63,4.97 V 5.32 H 2.97 V 7.38 H 2.63 V 7.73 H 4.35 V 7.38 H 4.69 V 6.35 H 4.35 V 6 H 4.69 V 5.3 H 4.35 V 4.96 H 2.63 Z m 2.97,0 V 5.32 H 5.26 V 7.38 H 5.6 V 7.73 H 6.98 V 7.38 H 7.32 V 5.32 H 6.98 V 4.97 Z m 2.07,0 V 5.32 H 8 V 6 H 8.34 V 6.68 H 8 v 0.7 H 7.66 V 7.72 H 8.34 V 7.37 H 8.69 V 7.03 h 0.34 v 0.34 h 0.35 v 0.35 h 0.68 V 7.37 H 9.72 V 6.7 H 9.38 V 6.02 h 0.34 v -0.7 h 0.34 V 4.98 H 9.4 V 5.33 H 9.05 V 5.67 H 8.7 V 5.33 H 8.35 V 4.98 H 7.67 Z M 3.66,5.32 H 4 V 6 H 3.66 V 5.3 Z m 2.28,0 h 0.7 V 7.38 H 5.94 Z M 3.66,6.35 H 4 V 7.38 H 3.66 Z m 1.97,1.9 V 8.6 H 5.28 v 0.68 h 0.35 v 0.35 h 0.68 v 0.34 h 0.35 v 0.69 H 5.96 V 9.97 H 5.28 v 0.69 H 5.63 V 11 H 7 V 10.66 H 7.35 V 9.97 H 7 V 9.63 H 6.66 V 9.28 H 5.96 V 8.6 h 0.7 V 9.28 H 7.35 V 8.6 H 7 V 8.25 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+</svg>

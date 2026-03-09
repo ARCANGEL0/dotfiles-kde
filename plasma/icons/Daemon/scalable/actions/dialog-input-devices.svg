@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg7"
+   version="1.1"
+   sodipodi:docname="dialog-input-devices.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1078"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.81355932"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme" />
+  </defs>
+  <path
+     d="M 20.58,2.87 A 0.45,0.45 0 0 0 20.45,2.9 L 17.28,3.95 A 0.47,0.47 0 0 0 17.1,4.73 l 0.46,0.46 -7.55,7.54 A 0.74,0.74 0 0 0 9.93,12.81 L 9.91,12.83 9.89,12.85 9.38,13.37 9.53,10.31 10.68,9.15 A 1.96,1.96 0 1 0 9.49,7.95 l -1.4,1.4 A 0.84,0.84 0 0 0 7.85,9.9 L 7.6,15.14 6.75,15.99 a 2.7,2.7 0 0 0 -3.15,0.5 2.69,2.69 0 0 0 0,3.84 2.7,2.7 0 0 0 3.84,0 2.7,2.7 0 0 0 0.5,-3.15 l 1,-1 a 0.83,0.83 0 0 0 0.15,-0.15 l 1.82,-1.82 5.23,-0.25 a 0.84,0.84 0 0 0 0.56,-0.24 l 1.52,-1.52 0.33,0.32 a 0.47,0.47 0 0 0 0.66,0 l 1.86,-1.84 a 0.47,0.47 0 0 0 0,-0.66 L 19.2,8.16 a 0.46,0.46 0 0 0 -0.66,0 l -1.86,1.85 a 0.47,0.47 0 0 0 0,0.66 l 0.33,0.33 -1.3,1.3 -3.04,0.14 6.06,-6.07 0.46,0.47 a 0.47,0.47 0 0 0 0.78,-0.18 l 1.06,-3.18 a 0.47,0.47 0 0 0 -0.33,-0.6 0.44,0.44 0 0 0 -0.13,0 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc;stroke-width:0.81999999" />
+</svg>

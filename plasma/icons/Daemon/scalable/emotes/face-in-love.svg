@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="face-in-love.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.37 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.36 6.29,6.29 0 0 0 6.34,0.07 Z M 6.32,1 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92,6.42 5.4,5.4 0 0 1 6.32,1 Z m 3.22,6.38 c -0.02,0 -0.03,0 -0.05,0.02 -2,1.94 -4.09,2.2 -6.29,0 -0.07,-0.08 -0.07,0.08 -0.07,0.19 0,0.1 0,0.1 0.07,0.19 2.1,2.13 4.2,2.09 6.3,0 0.06,-0.08 0.04,-0.11 0.04,-0.22 0,-0.08 0.02,-0.17 0,-0.18 z M 5.56,9.99 V 10 c -0.06,0.13 -0.1,0.26 0,0.39 0.59,0.25 1.1,0.19 1.6,0 a 0.4,0.4 0 0 0 0,-0.4 c -0.5,0.2 -1.02,0.27 -1.6,0 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+  <path
+     d="M 5.04,3.19 H 4.9 C 4.75,3.23 4.59,3.33 4.41,3.51 L 4.35,3.57 4.29,3.51 A 1.27,1.27 0 0 0 3.91,3.23 C 3.68,3.14 3.39,3.2 3.16,3.38 2.91,3.58 2.76,3.89 2.72,4.25 v 0.42 c 0.06,0.38 0.23,0.72 0.5,1.05 0.2,0.23 0.4,0.42 0.78,0.7 0.18,0.14 0.29,0.23 0.32,0.27 L 4.35,6.72 4.38,6.68 4.68,6.46 C 5.11,6.16 5.3,5.99 5.51,5.73 A 2,2 0 0 0 5.99,4.43 C 5.99,4.22 5.96,4.04 5.89,3.87 5.75,3.53 5.49,3.29 5.19,3.21 A 0.6,0.6 0 0 0 5.04,3.19 Z m 3.97,0 H 8.87 C 8.72,3.23 8.55,3.33 8.38,3.51 L 8.32,3.57 8.25,3.51 A 1.27,1.27 0 0 0 7.87,3.23 C 7.65,3.14 7.36,3.2 7.13,3.38 6.88,3.58 6.73,3.89 6.68,4.25 l 0.01,0.42 c 0.06,0.38 0.22,0.72 0.5,1.05 0.2,0.23 0.4,0.42 0.78,0.7 0.18,0.14 0.29,0.23 0.32,0.27 L 8.32,6.72 8.35,6.68 8.65,6.46 C 9.07,6.16 9.27,5.99 9.47,5.73 A 2,2 0 0 0 9.96,4.43 C 9.96,4.22 9.92,4.04 9.86,3.87 9.72,3.53 9.46,3.29 9.16,3.21 A 0.6,0.6 0 0 0 9,3.2 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="opacity:0.75;fill:#ff2a2a" />
+</svg>

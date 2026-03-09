@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="edit-find.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="48.0625"
+     inkscape:cx="7.9895969"
+     inkscape:cy="7.2301691"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      </style>
+  </defs>
+  <path
+     d="m 2.000031,6.3902279 c 2.35e-4,2.378454 1.927743,4.3060611 4.306033,4.3062931 1.04817,-9.6e-5 2.008125,-0.375277 2.754774,-0.9977181 L 9.944195,10.58221 c 0.0032,0.0036 0.0077,0.0045 0.01104,0.0074 -0.2061102,0.435979 -0.1401112,0.969842 0.219488,1.329509 l 1.82051,1.821324 c 0.457993,0.458001 1.20267,0.458001 1.660641,0 0.458834,-0.45886 0.458834,-1.201869 0,-1.660723 L 11.835396,10.258388 C 11.474813,9.8977864 10.941098,9.8319654 10.50497,10.039284 c -0.0029,-0.0035 -0.0036,-0.0073 -0.0072,-0.01066 L 9.6143978,9.1452099 C 10.2368,8.3985189 10.611945,7.4385109 10.612036,6.3902809 10.611762,4.011815 8.684265,2.084234 6.306016,2.084 3.927739,2.084232 2.000229,4.011814 2,6.3902579 Z m 7.046203,0 C 9.045554,7.9024349 7.818156,9.1298689 6.306086,9.1305989 4.793968,9.1295989 3.566548,7.9024569 3.565864,6.3902279 3.567264,4.87803 4.793944,3.650596 6.306086,3.649868 7.818156,3.651368 9.04553,4.87803 9.046234,6.3902279 Z"
+     id="path2-3-6"
+     style="fill:#d3dae3;fill-opacity:1;stroke-width:0.0312512" />
+</svg>

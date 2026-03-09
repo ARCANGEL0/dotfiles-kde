@@ -1,0 +1,36 @@
+2.0.2
+=====
+-analog_meter bugfix
+
+2.0.1
+=====
+-analog clock bugfix & secondhand update
+
+2.0
+====
+-complete overhaul
+-new lancelot theme
+-updated: panel-background, systemtray, busywidget, background, toolbox, analog-meter, scrollbar, tasks, translucentbackground, buttons, clock, calendar, colors /dialog: background, kickoff, krunner, shutdowndialog
+-new: dragger, extender-dragger, extender-background, line, lineedit, viewitem, action-overlay, arrows, frame, weatherstation, fifteenpuzzle, branding, bar_meter_vertical, battery-oxygen
+
+
+1.2.1
+=====
+-shutdowndialog.svg: attempt to fix issue where buttons are hidden with compositing disabled
+
+1.2
+=====
+-most elements converted to use "hint-apply-color-scheme" so that custom color may easily be used
+-tooltip transparency adjusted and border colored
+-glow added to tooltop edges (compositing enabled only)
+-background margins adjusted
+-minor change to analog clock highlights
+-added toolbox graphic
+-change to hovered tasks & pager graphic
+-various file size reductions and cleanup
+-analog meter color adjusted
+-thin outline added to dialog, krunner, shutdowndialog backgrounds
+
+1.0
+===
+-Public release 

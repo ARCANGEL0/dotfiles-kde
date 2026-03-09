@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+  <g transform="translate(1,1)">
+    <path class="ColorScheme-Text" d="m 2,4 c 0,2 0,5 0,7 0,2 2,2 2,2 h 14 c 0,0 2,0 2,-2 C 20,9 20,4 20,4 20,4 20,2 18,2 16,2 4,2 4,2 4,2 2,2 2,4 Z M 4,3 h 6 1 c 0,0 6,0 7,0 1,0 1,1 1,1 H 3 C 3,3 4,3 4,3 Z M 3,5 h 16 c 0,0 0,5 0,6 0,1 -1,1 -1,1 H 15 7 4 C 4,12 3,12 3,11 3,10 3,5 3,5 Z M 4,6 V 7 H 6 V 6 Z M 7,6 V 7 H 9 V 6 Z m 3,0 v 1 h 2 V 6 Z m 3,0 v 1 h 2 V 6 Z m 3,0 v 1 h 2 V 6 Z M 4,8 V 9 H 6 V 8 Z M 7,8 V 9 H 9 V 8 Z m 3,0 v 1 h 2 V 8 Z m 3,0 v 1 h 2 V 8 Z m 3,0 v 1 h 2 V 8 Z M 4,10 v 1 h 2 v -1 z m 3,0 v 1 h 8 v -1 z m 9,0 v 1 h 2 V 10 Z M 6.7070312,14.292969 6,15 11,20 16,15 15.292969,14.292969 11,18.585938 Z" fill="currentColor"/>
+  </g>
+</svg>

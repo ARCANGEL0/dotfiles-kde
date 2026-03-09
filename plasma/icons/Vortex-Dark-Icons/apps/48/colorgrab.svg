@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.699752 12.699752"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="colorgrab.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4028446"
+     inkscape:cx="16.125938"
+     inkscape:cy="38.95209"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <g
+     id="g12"
+     transform="matrix(0.76360378,0,0,0.76360378,-0.21581049,-0.21574937)">
+    <circle
+       cx="8.4659996"
+       cy="8.4659996"
+       r="7.1440001"
+       fill="#3a81cc"
+       fill-rule="evenodd"
+       style="paint-order:fill markers stroke"
+       id="circle1" />
+    <g
+       color="#000000"
+       id="g8">
+      <g
+         stroke-width="0.9"
+         id="g5">
+        <path
+           fill="#71abe3"
+           d="m 11.006,5.927 v 5.08 h 4.128 a 7.143,7.144 0 0 0 0.476,-2.54 7.143,7.144 0 0 0 -0.47,-2.54 z m -5.079,5.079 v 4.128 a 7.143,7.144 0 0 0 2.54,0.476 7.143,7.144 0 0 0 2.539,-0.47 v -4.134 z"
+           display="block"
+           style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+           id="path1" />
+        <path
+           fill="#1f609e"
+           d="M 5.927,1.792 A 7.143,7.144 0 0 0 1.799,5.927 h 4.128 z"
+           display="block"
+           style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+           id="path2" />
+        <path
+           fill="#2777c4"
+           d="m 8.466,1.323 a 7.143,7.144 0 0 0 -2.54,0.47 v 4.134 h 5.08 V 1.799 A 7.143,7.144 0 0 0 8.466,1.323 Z"
+           display="block"
+           style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+           id="path3" />
+        <path
+           fill="#4893db"
+           d="M 11.006,1.799 V 5.927 H 15.14 A 7.143,7.144 0 0 0 11.006,1.799 Z"
+           display="block"
+           style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+           id="path4" />
+        <path
+           fill="#2777c4"
+           d="m 1.799,5.927 a 7.143,7.144 0 0 0 -0.476,2.54 7.143,7.144 0 0 0 0.47,2.54 h 4.133 v -5.08 z"
+           display="block"
+           style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+           id="path5" />
+      </g>
+      <path
+         fill="#4893db"
+         d="m 5.926,5.926 h 5.08 v 5.08 h -5.08 z"
+         display="block"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+         id="path6" />
+      <path
+         fill="#4893db"
+         d="m 1.792,11.006 a 7.143,7.144 0 0 0 4.135,4.128 v -4.128 z"
+         display="block"
+         style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+         id="path7" />
+      <path
+         fill="#8abae8"
+         d="m 11.006,11.006 v 4.135 a 7.143,7.144 0 0 0 4.128,-4.135 z"
+         display="block"
+         style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"
+         id="path8" />
+    </g>
+    <g
+       color="#000000"
+       style="paint-order:fill markers stroke"
+       id="g11">
+      <path
+         fill="#ffffff"
+         d="M 10.737,6.328 A 4.41,4.41 0 0 0 10.593,6.333 C 10.585,6.332 10.578,6.328 10.569,6.328 H 6.507 A 0.176,0.176 0 0 0 6.331,6.503 v 4.13 a 4.41,4.41 0 0 0 -0.005,0.104 4.41,4.41 0 0 0 4.41,4.41 4.41,4.41 0 0 0 4.41,-4.41 4.41,4.41 0 0 0 -4.41,-4.41 z"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         transform="matrix(0.83993,0,0,0.83993,3.153,3.152)"
+         id="path9" />
+      <path
+         fill="#5299dc"
+         d="m 13.004,10.737 a 2.267,2.267 0 0 1 -2.268,2.268 2.267,2.267 0 0 1 -2.267,-2.268 2.267,2.267 0 0 1 2.268,-2.267 2.267,2.267 0 0 1 2.267,2.267 z"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         transform="matrix(0.83993,0,0,0.83993,3.153,3.152)"
+         id="path10" />
+      <path
+         fill="#ffffff"
+         d="m 10.648,9.855 v 0.794 H 9.854 v 0.265 h 0.794 l 0.017,0.793 h 0.248 v -0.793 h 0.793 l 0.017,-0.265 h -0.81 V 9.855 Z"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         transform="matrix(0.83993,0,0,0.83993,3.153,3.152)"
+         id="path11" />
+    </g>
+  </g>
+</svg>

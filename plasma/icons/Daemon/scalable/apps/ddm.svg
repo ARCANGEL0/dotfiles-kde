@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="jockey.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 24 10 A 6.9999999 6.9999999 0 0 0 17 17 L 17 20 L 15 20 L 15 32 L 18.087891 32 A 1.5 1.5 0 0 1 19.5 31 A 1.5 1.5 0 0 1 21 32.5 A 1.5 1.5 0 0 1 19.5 34 A 1.5 1.5 0 0 1 18.087891 33 L 15 33 L 15 38 L 33 38 L 33 20 L 31 20 L 31 17 A 6.9999999 6.9999999 0 0 0 24 10 z M 24 12 A 4.9999997 4.9999997 0 0 1 29 17 L 29 20 L 29 26.087891 A 1.5 1.5 0 0 1 30 27.5 A 1.5 1.5 0 0 1 28.5 29 A 1.5 1.5 0 0 1 27 27.5 A 1.5 1.5 0 0 1 28 26.087891 L 28 20 L 19 20 L 19 25 L 21.087891 25 A 1.5 1.5 0 0 1 22.5 24 A 1.5 1.5 0 0 1 24 25.5 A 1.5 1.5 0 0 1 22.5 27 A 1.5 1.5 0 0 1 21.087891 26 L 19 26 L 18 26 L 18 20 L 19 20 L 19 17 A 4.9999997 4.9999997 0 0 1 24 12 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

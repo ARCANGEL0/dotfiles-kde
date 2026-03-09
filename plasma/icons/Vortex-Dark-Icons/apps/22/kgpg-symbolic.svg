@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+    <g id="kgpg">
+    <path id="path1" d="M 11,3 C 8.784,3 7,4.784 7,7 v 3 c 0,0 -2,0 -2,2 0,2 0,3 0,5 0,2 2,2 2,2 h 8 c 0,0 2,0 2,-2 0,-2 0,-3 0,-5 0,-2 -2,-2 -2,-2 V 7 C 15,4.784 13.216,3 11,3 Z m 0,1 c 1.662,0 3,1.561 3,3.5 V 10 H 8 V 7.5 C 8,5.561 9.338,4 11,4 Z m -5,8 c 0.04882,-1 0.9916744,-1 0.9916744,-1 H 15.04383 c 0,0 0.95617,0 0.95617,1 0,1 0,4 0,5 0,1 -1,1 -1,1 H 7 c 0,0 -1,0 -1,-1 0,-1 -0.04882,-4 0,-5 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+    <rect y="0" x="0" height="22" width="22" id="rect1" style="fill:none;stroke:none"/>
+  </g>
+</svg>

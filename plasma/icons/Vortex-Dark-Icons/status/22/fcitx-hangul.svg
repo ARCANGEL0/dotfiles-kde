@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <g id="fcitx-hangul" transform="translate(0,-81.999992) translate(2.47097e-09,-88)">
+    <rect style="fill:none;fill-opacity:1;stroke:none" id="rect4504" width="22" height="22" x="-2.4709701e-09" y="170"/>
+    <path class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" d="m 6,103 c -3,-1e-5 -3,2.99999 -3,2.99999 l 0,10 c 0,0 0,3 3,3.00001 3,1e-5 7,1e-5 10,0 3,-1e-5 3,-3.00001 3,-3.00001 v -10 c 0,0 0,-2.99999 -3,-2.99999 -3,0 -7,1e-5 -10,0 z m -2,2.99999 c 0,0 0,-2 2,-1.99999 2,1e-5 8,1e-5 10,0 2,-1e-5 2,1.99999 2,1.99999 v 10 c 0,0 0,2 -2,2.00001 -2,1e-5 -8,1e-5 -10,0 -2,-1e-5 -2,-2.00001 -2,-2.00001 z M 8,105 v 1 h 2 v -1 z m 6,1 v 8 h 1 v -4 h 2 v -1 h -2 v -3 z m -8,1 v 1 h 6 v -1 z m 3,2 c -1.5968879,0 -3,1.05766 -3,2.5 0,1.44234 1.4031121,2.5 3,2.5 1.596888,0 3,-1.05766 3,-2.5 0,-1.44234 -1.403112,-2.5 -3,-2.5 z m 0,1 c 1.164536,0 2,0.73321 2,1.5 0,0.76679 -0.835464,1.5 -2,1.5 -1.1645358,0 -2,-0.73321 -2,-1.5 0,-0.76679 0.8354642,-1.5 2,-1.5 z m -1,5 v 2 h 8 v -1 H 9 v -1 z" transform="translate(0,70)" id="path4506"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g id="mail-unread-new" transform="translate(-27,0)">
+      <rect y="0" x="27.000002" height="22" width="22" id="rect4178" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
+      <path style="fill:currentColor" d="M 27.999998,5.0000004 V 12 17 c 0,0 0,2 2,2 h 5 6 v -1 h -6 -6 v -0.585938 l 0.462891,-0.46289 6.267578,-6.267578 1.453125,1.451172 0.814453,0.814453 h 0.002 L 38.816451,12.134766 40.269576,10.683594 41.585983,12 h 1.414062 L 40.97656,9.9765629 46.728514,4.2226566 46.95117,4.0000004 H 47 V 4.2226566 12 h 1 V 5.0000004 c 0,0 0,-2 -2,-2 H 30 c -2,0 -2,2 -2,2 z m 1,-1 h 0.04883 L 29.271485,4.2226566 35.023438,9.9765629 29,16 V 12 4.2226566 Z m 1.462891,0 H 45.537107 L 37.999998,11.537109 Z M 44.999998,13 44.425779,14.613281 42.878904,13.878906 43.613279,15.425781 41.999998,16 43.613279,16.574219 42.878904,18.121094 44.425779,17.386719 44.999998,19 45.574217,17.386719 47.121092,18.121094 46.386717,16.574219 47.999998,16 l -1.613281,-0.574219 0.734375,-1.546875 -1.546875,0.734375 z" id="rect4144-0" class="ColorScheme-Text"/>
+    </g>
+  </g>
+</svg>

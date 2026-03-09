@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="0trace.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 16.5 13 C 11.791 13 8 16.791 8 21.5 L 8 27.5 C 8 32.209 11.791 36 16.5 36 C 21.209 36 25 32.209 25 27.5 L 25 21.5 C 25 16.791 21.209 13 16.5 13 z M 16.5 16 C 18.036954 16 19.421869 16.625094 20.417969 17.634766 L 11.019531 27.888672 C 11.010591 27.759878 11 27.631143 11 27.5 L 11 21.5 C 11 18.453 13.453 16 16.5 16 z M 31 17 L 31 19 L 29 19 L 29 21 L 31 21 L 31 24 L 29 24 L 29 26 L 31 26 L 31 28 L 33 28 L 33 26 L 36 26 L 36 28 L 38 28 L 38 26 L 40 26 L 40 24 L 38 24 L 38 21 L 40 21 L 40 19 L 38 19 L 38 17 L 36 17 L 36 19 L 33 19 L 33 17 L 31 17 z M 21.853516 20.25 C 21.946385 20.651908 22 21.069071 22 21.5 L 22 27.5 C 22 30.547 19.547 33 16.5 33 C 14.717352 33 13.142416 32.156583 12.138672 30.849609 L 21.853516 20.25 z M 33 21 L 36 21 L 36 24 L 33 24 L 33 21 z M 27 30 L 27 33 L 40 33 L 40 30 L 27 30 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

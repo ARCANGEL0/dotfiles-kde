@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="32" height="32">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+      </style>
+    <g transform="translate(0,32) translate(-22,-32)" id="touchpad_enabled" inkscape:label="#touchpad_enabled">
+    <path id="path12" class="ColorScheme-Text" d="m 30,4 c -4,0 -4,4 -4,4 v 17 c 0,3 3,3 3,3 h 18 c 3,0 3,-3 3,-3 V 8 C 50,4 46,4 46,4 Z m -3,4 c 0,-3 3,-3 3,-3 h 16 c 3,0 3,3.057998 3,3.057998 V 22 H 27 Z m 0,15 h 10 v 4 c 0,0 -6,0 -8,0 -2,0 -2,-2 -2,-2 z m 12,0 h 10 v 2 c 0,0 0,2 -2,2 -2,0 -8,0 -8,0 z" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+    <path id="path14" d="M 22 0 L 22 32 L 54 32 L 54 0 L 22 0 z " style="opacity:1;fill:none"/>
+  </g>
+</svg>

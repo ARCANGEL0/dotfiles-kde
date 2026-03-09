@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1"
+   id="svg4"
+   sodipodi:docname="audio-speaker-left-testing.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 23.766,4.012 A 20,20 0 0 0 9.928,9.824 20,20 0 0 0 9.818,38.088 L 24.028,24.012 38.19,9.89 A 20,20 0 0 0 23.765,4.01 Z M 42.268,15.9 40.111,17.195 a 17.5,17.5 0 0 1 -3.726,19.21 17.5,17.5 0 0 1 -19.196,3.708 l -1.294,2.153 A 20,20 0 0 0 38.152,38.172 20,20 0 0 0 42.268,15.9 Z m -5.807,7.436 -2.475,0.562 A 10,10 0 0 1 31.08,31.1 10,10 0 0 1 23.885,34.02 l -0.576,2.476 a 12.5,12.5 0 0 0 9.539,-3.627 12.5,12.5 0 0 0 3.613,-9.533 z"
+     id="path2"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g transform="translate(22,20) translate(0,-129)" id="showinfo-hover">
+      <rect y="109" x="-22" height="22" width="22" id="rect4411" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
+      <g id="g4413" transform="translate(-22,-921.3622)">
+        <rect class="ColorScheme-ButtonFocus" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" id="rect4415" width="2" height="2" x="10" y="1036.3622"/>
+        <rect class="ColorScheme-ButtonFocus" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" id="rect4417" width="2" height="7" x="10" y="1039.3622"/>
+        <path class="ColorScheme-ButtonFocus" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,1 c 3.878,0 7,3.122 7,7 0,3.878 -3.122,7 -7,7 C 7.122,18 4,14.878 4,11 4,7.122 7.122,4 11,4 Z" transform="translate(0,1030.3622)" id="path4419"/>
+      </g>
+    </g>
+  </g>
+</svg>

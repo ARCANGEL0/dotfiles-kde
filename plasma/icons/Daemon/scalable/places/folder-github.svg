@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-github.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 34 9 C 31.111173 9.2653274 29.54783 10.024464 28.650391 11.033203 C 28.434575 11.017855 28.219856 11 28 11 L 20 11 C 19.806551 11 19.618079 11.01739 19.427734 11.029297 C 18.504539 10.116372 16.965236 9.4319011 14.261719 9.1835938 C 13.407552 11.319011 13.107422 12.900391 13.347656 13.941406 C 11.892565 15.539056 11 17.658803 11 20 C 11 24.986 15.014 29 20 29 L 21.021484 29 C 19.986272 29.771093 19.259935 30.927174 19.060547 32.263672 C 14.114906 33.396527 14.130024 28.613295 10 28 C 13.738511 30.251419 11.870098 35.070501 19 35.023438 L 19 38 L 19 39 L 29 39 L 29 38 L 29 33 C 29 31.352918 28.200123 29.909932 26.978516 29 L 28 29 C 32.986 29 37 24.986 37 20 C 37 17.737717 36.167391 15.681444 34.798828 14.103516 C 35.214849 13.08464 34.956598 11.391493 34 9 z "
+     transform="scale(0.26458333)"
+     id="path831" />
+</svg>

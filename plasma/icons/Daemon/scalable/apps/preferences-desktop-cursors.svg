@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-cursors.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 6.35,0 C 2.8429918,0 3.6666667e-8,2.8429918 3.6666667e-8,6.3499999 3.6666667e-8,9.857008 2.8429918,12.7 6.35,12.7 9.8570081,12.7 12.7,9.857008 12.7,6.3499999 12.7,2.8429918 9.8570081,0 6.35,0 Z m 0,0.79374999 c 3.0686321,0 5.55625,2.48761781 5.55625,5.55624991 0,3.0686322 -2.4876179,5.5562501 -5.55625,5.5562501 -3.0686322,0 -5.55625001,-2.4876179 -5.55625001,-5.5562501 0,-3.0686321 2.48761781,-5.55624991 5.55625001,-5.55624991 z M 3.175,3.4395833 V 8.4666666 H 4.3652162 L 5.2916666,9.5249999 5.55625,9.3823731 V 8.2020832 L 6.6145833,7.1437499 Z M 7.6729166,3.7041666 V 3.96875 h 0.79375 V 8.9958332 H 7.9374999 v 0.2645834 h 1.5875 V 8.9958332 h -0.79375 V 3.96875 h 0.79375 V 3.7041666 Z"
+     id="path831"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssssccccccccccccccccccccc" />
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="rambox-indicator.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1085"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css" />
+  </defs>
+  <path
+     d="m 13.16,7.992 c 2.33,0.034 2.635,1.84 3.316,1.885 0.845,0.054 1.323,1.11 0.983,1.822 -0.341,0.713 -0.865,0.35 -0.882,1.197 -0.01,0.493 0.217,0.86 0.402,0.866 0.524,-0.4 1.075,-0.408 1.351,-0.148 0.276,0.26 0.277,0.787 0.273,1.454 1.245,1.426 1.556,1.537 1.885,2.206 0.254,0.518 0.504,1.445 -0.181,1.743 -0.491,1.954 -1.886,2.626 -3.275,2.456 -0.465,-0.048 -1.664,0.897 -4.153,0.364 C 10.955,21.425 2.319,19.315 3.332,15.432 4.23,12.006 7.315,4.342 8.231,3.452 c 0,0 -0.185,1.867 0.624,2.629 C 9.212,3.067 11.488,2.098 12.287,2 c -0.783,0.93 -1.18,1.998 -0.95,2.923 1.775,-2.2 4.747,-1.977 6.123,-1.253 -5.933,1.051 -4.297,4.323 -4.297,4.323 z"
+     id="path5-3"
+     inkscape:connector-curvature="0"
+     style="color:#dfdfdf;fill:#5beedc;fill-rule:evenodd;stroke-width:1.25" />
+</svg>

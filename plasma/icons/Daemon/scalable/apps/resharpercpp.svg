@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="resharpercpp.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 24 7 A 17.000006 17.000006 0 0 0 7 24 A 17.000006 17.000006 0 0 0 24 41 A 17.000006 17.000006 0 0 0 41 24 A 17.000006 17.000006 0 0 0 24 7 z M 30 19 L 32 19 L 32 21 L 34 21 L 34 23 L 32 23 L 32 25 L 30 25 L 30 27 L 28 27 L 28 29 L 26 29 L 26 27 L 24 27 L 24 25 L 26 25 L 26 23 L 28 23 L 28 21 L 30 21 L 30 19 z M 28 23 L 28 25 L 30 25 L 30 23 L 28 23 z M 14 19.011719 L 19.058594 19.011719 C 19.968594 19.011719 20.687797 19.229068 21.216797 19.664062 C 21.875797 20.201063 22.205078 21.178937 22.205078 22.085938 C 22.205078 23.385946 21.479453 24.406953 20.005859 24.847656 L 22.519531 29.039062 L 20.285156 29.039062 L 17.914062 25.085938 L 16.048828 25.085938 L 16.048828 29 L 14 29 L 14 19.011719 z M 16.048828 20.738281 L 16.048828 23.400391 L 18.5 23.400391 C 19.058 23.400391 19.465568 23.295889 19.726562 23.087891 C 19.986564 22.879892 20.117186 22.531015 20.117188 22.041016 C 20.117188 21.699014 20.027568 21.417314 19.851562 21.195312 C 19.600571 20.890319 19.202297 20.738281 18.654297 20.738281 L 16.048828 20.738281 z M 17 32 L 31 32 L 31 34 L 17 34 L 17 32 z "
+     transform="scale(0.26458333)"
+     id="path829" />
+</svg>

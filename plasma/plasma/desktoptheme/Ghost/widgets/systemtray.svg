@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11324"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   width="155"
+   height="45"
+   version="1.0"
+   sodipodi:docname="systemtray.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape">
+  <sodipodi:namedview
+     inkscape:window-height="722"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#a8a8a8"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="4.5244112"
+     inkscape:cx="52.593121"
+     inkscape:cy="23.750661"
+     inkscape:window-x="-6"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg11324"
+     width="25px"
+     height="25px"
+     inkscape:snap-nodes="false"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3747" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11329">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11327" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer"
+     style="display:inline">
+    <rect
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;display:inline"
+       id="hint-stretch-borders"
+       width="4.4368863"
+       height="4.4109044"
+       x="1.1607208"
+       y="1.208007" />
+    <rect
+       y="1.5890956"
+       x="7.5631137"
+       height="4.4109044"
+       width="4.4368863"
+       id="hint-tile-center"
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;display:inline"
+       inkscape:label="#rect5712" />
+    <rect
+       y="10"
+       x="0.56311369"
+       height="4.4109044"
+       width="4.4368863"
+       id="hint-apply-color-scheme"
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;display:inline"
+       inkscape:label="#rect5827" />
+    <g
+       id="center"
+       style="opacity:0.25;display:inline"
+       inkscape:label="#g5699"
+       transform="translate(35,0)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path5693"
+         d="m 20,26 c 0,0 11,-11 11,-11 l 4,0 l 0,4 L 24,30 l -4,0 l 0,-4 z"
+         style="fill:#00ffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5695"
+         d="m 31,30 l 4,-4 l 0,4 l -5,0 l 1,0 z"
+         style="fill:#00ffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5697"
+         d="m 20,15 l 0,4 l 4,-4 l -4,0 z"
+         style="fill:#00ffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       inkscape:label="#g5699"
+       style="opacity:0.1;display:inline"
+       id="lastelements-center"
+       transform="translate(59,0)">
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none"
+         d="m 20,26 c 0,0 11,-11 11,-11 l 4,0 l 0,4 L 24,30 l -4,0 l 0,-4 z"
+         id="path5716"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none"
+         d="m 31,30 l 4,-4 l 0,4 l -5,0 l 1,0 z"
+         id="path5718"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none"
+         d="m 20,15 l 0,4 l 4,-4 l -4,0 z"
+         id="path5720"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="expander-left"
+       inkscape:label="#g5740"
+       style="opacity:0.9;display:inline">
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="rect5722"
+         d="m 12.5,15 l 7.5,0 l 0,15 l -7.5,0 L 5,22.5 L 12.5,15 z"
+         style="opacity:0.01600001;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'"
+         d="M 13,17.21875 L 6.90625,21.6875 a 1.0001,1.0001 0 0 0 0,1.625 L 13,27.78125 l 0,-2.5 L 9.1875,22.5 L 13,19.71875 l 0,-2.5 z"
+         id="rect5748" />
+    </g>
+    <g
+       inkscape:label="#g5740"
+       id="expander-right"
+       transform="matrix(-1,0,0,1,55,0)"
+       style="opacity:0.9;display:inline">
+      <path
+         style="opacity:0.01600001;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 12.5,15 l 7.5,0 l 0,15 l -7.5,0 L 5,22.5 L 12.5,15 z"
+         id="path5803"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path5807"
+         d="M 13,17.21875 L 6.90625,21.6875 a 1.0001,1.0001 0 0 0 0,1.625 L 13,27.78125 l 0,-2.5 L 9.1875,22.5 L 13,19.71875 l 0,-2.5 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'" />
+    </g>
+    <g
+       inkscape:label="#g5740"
+       id="expander-up"
+       transform="matrix(0,1,-1,0,50,-5)"
+       style="opacity:0.9;display:inline">
+      <path
+         style="opacity:0.01600001;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 12.5,15 l 7.5,0 l 0,15 l -7.5,0 L 5,22.5 L 12.5,15 z"
+         id="path5817"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path5819"
+         d="M 13,17.21875 L 6.90625,21.6875 a 1.0001,1.0001 0 0 0 0,1.625 L 13,27.78125 l 0,-2.5 L 9.1875,22.5 L 13,19.71875 l 0,-2.5 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,50,50)"
+       id="expander-down"
+       inkscape:label="#g5740"
+       style="opacity:0.9;display:inline">
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path5823"
+         d="m 12.5,15 l 7.5,0 l 0,15 l -7.5,0 L 5,22.5 L 12.5,15 z"
+         style="opacity:0.01600001;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'"
+         d="M 13,17.21875 L 6.90625,21.6875 a 1.0001,1.0001 0 0 0 0,1.625 L 13,27.78125 l 0,-2.5 L 9.1875,22.5 L 13,19.71875 l 0,-2.5 z"
+         id="path5825" />
+    </g>
+  </g>
+</svg>

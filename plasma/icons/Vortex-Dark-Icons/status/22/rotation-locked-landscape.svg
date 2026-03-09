@@ -1,0 +1,7 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+    <g class="ColorScheme-Text" fill="currentColor">
+        <path d="M 16.5,12 C 15.671573,12 15,12.671572 15,13.5 V 15 c 0,0 -1,0 -1,1 0,1 0,0 0,1 0,1 1,1 1,1 h 3 c 0,0 1,0 1,-1 0,-1 0,0 0,-1 0,-1 -1,-1 -1,-1 V 13.5 C 18,12.671572 17.328427,12 16.5,12 Z m 0,1 c 0.276142,0 0.5,0.223858 0.5,0.5 V 15 H 16 V 13.5 C 16,13.223858 16.223858,13 16.5,13 Z" fill-rule="evenodd"/>
+        <path d="m 3,9 v 3.977715 C 3,16 6,16 6,16 h 7 V 15 H 6 C 6,15 4,15 4,13 V 9 C 4,9 4,7 6,7 h 10 c 2,0 2,2 2,2 v 3 h 1 V 9 C 19,9 19,6 16,6 H 6 C 3,6 3,9 3,9 Z"/>
+    </g>
+</svg>

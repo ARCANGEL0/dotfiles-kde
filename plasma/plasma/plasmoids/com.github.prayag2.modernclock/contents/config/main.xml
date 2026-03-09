@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+    <group name="Appearance">
+        <entry name="day_font_size" type="Int">
+            <default>72</default>
+        </entry>
+        <entry name="day_letter_spacing" type="Int">
+            <default>17</default>
+        </entry>
+        <entry name="show_day" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="date_font_size" type="Int">
+            <default>19</default>
+        </entry>
+        <entry name="date_letter_spacing" type="Int">
+            <default>3</default>
+        </entry>
+        <entry name="date_format" type="String">
+            <default>dd MMM yyyy</default>
+        </entry>
+        <entry name="show_date" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="time_font_size" type="Int">
+            <default>19</default>
+        </entry>
+        <entry name="time_letter_spacing" type="Int">
+            <default>3</default>
+        </entry>
+        <entry name="time_font_color" type="Color">
+            <default>#FFFFFF</default>
+        </entry>
+        <entry name="show_time" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="date_font_color" type="Color">
+            <default>#FFFFFF</default>
+        </entry>
+        <entry name="day_font_color" type="Color">
+            <default>#FFFFFF</default>
+        </entry>
+        <entry name="use_24_hour_format" type="Bool">
+            <default>false</default>
+        </entry>
+        <entry name="time_character" type="String">
+            <default>-</default>
+        </entry>
+    </group>
+</kcfg> 

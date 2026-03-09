@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="VideoUrls" type="String">
+      <label>List of video urls</label>
+      <default>[]</default>
+    </entry>
+    <entry name="BackgroundColor" type="String">
+      <label>Last folder used</label>
+      <default>#000000</default>
+    </entry>
+    <entry name="FillMode" type="Int">
+      <label>Video fill mode</label>
+      <default>2</default>
+    </entry>
+    <!-- Video pause mode
+        0: when existing a maximized or full-screen windows
+        1: when a visible window is active
+        2: when a window is visible
+        3: never
+    -->
+    <entry name="PauseMode" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="PauseBatteryLevel" type="Int">
+      <default>10</default>
+    </entry>
+    <entry name="BatteryPausesVideo" type="Bool">
+      <label>Pause video when battery is below PauseBatteryLevel</label>
+      <default>true</default>
+    </entry>
+    <entry name="BatteryDisablesBlur" type="Bool">
+      <label>Disable blur when battery is below PauseBatteryLevel</label>
+      <default>false</default>
+    </entry>
+    <!-- Show blur
+        0: when existing a maximized or full-screen windows
+        1: when a visible window is active
+        2: when a window is visible
+        3: video is paused
+        4: always
+        5: never
+    -->
+    <entry name="BlurMode" type="Int">
+      <default>5</default>
+    </entry>
+    <entry name="BlurRadius" type="Int">
+      <default>32</default>
+    </entry>
+    <entry name="ScreenOffPausesVideo" type="Bool">
+      <label>Pause video when the screen is turned off based on ScreenStateCmd</label>
+      <default>false</default>
+    </entry>
+    <entry name="ScreenStateCmd" type="String">
+      <label>Command/script to get the screen state should return 0 for Off and anything else for On state</label>
+      <default>cat /sys/class/backlight/intel_backlight/actual_brightness</default>
+    </entry>
+    <entry name="CheckWindowsActiveScreen" type="Bool">
+      <label>Whether or not check for windows from all screens instead of just the active one.</label>
+      <default>true</default>
+    </entry>
+    <entry name="DebugEnabled" type="Bool">
+      <label>Print log to Journal</label>
+      <default>false</default>
+    </entry>
+    <!-- Desktop effects -->
+    <entry name="EffectsPauseVideo" type="String">
+      <default></default>
+    </entry>
+    <entry name="EffectsPlayVideo" type="String">
+      <default></default>
+    </entry>
+    <entry name="EffectsHideBlur" type="String">
+      <default></default>
+    </entry>
+    <entry name="EffectsShowBlur" type="String">
+      <default></default>
+    </entry>
+    <entry name="BlurAnimationDuration" type="Int">
+      <default>300</default>
+    </entry>
+    <entry name="CrossfadeEnabled" type="Bool">
+      <default>False</default>
+    </entry>
+    <entry name="CrossfadeDuration" type="Int">
+      <default>1000</default>
+    </entry>
+    <entry name="PlaybackRate" type="Double">
+      <default>1</default>
+    </entry>
+    <entry name="Volume" type="Double">
+      <default>1</default>
+    </entry>
+    <entry name="RandomMode" type="Bool">
+      <default>False</default>
+    </entry>
+    <entry name="LastVideo" type="String">
+      <default></default>
+    </entry>
+    <entry name="LastVideoPosition" type="Int">
+      <default>0</default>
+    </entry>
+    <!-- Mute audio
+        0: when maximized or full-screen windows
+        1: when a visible window is active
+        2: when a window is visible
+        3: TODO application playing audio
+        4: never
+        5: always
+    -->
+    <entry name="MuteMode" type="Int">
+      <default>5</default>
+    </entry>
+    <entry name="ChangeWallpaperMode" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="ChangeWallpaperTimerSeconds" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="ChangeWallpaperTimerMinutes" type="Int">
+      <default>10</default>
+    </entry>
+    <entry name="ChangeWallpaperTimerHours" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="ResumeLastVideo" type="Bool">
+      <label>Whether or not to resume last playing video on startup</label>
+      <default>True</default>
+    </entry>
+    <entry name="FillBlur" type="Bool">
+      <label>Blur background filling</label>
+      <default>true</default>
+    </entry>
+    <entry name="FillBlurRadius" type="Int">
+      <default>64</default>
+    </entry>
+  </group>
+</kcfg>

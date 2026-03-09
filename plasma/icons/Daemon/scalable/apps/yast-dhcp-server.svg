@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-system-network-server-dhcp.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 29 47.462891 L 29 44.388672 A 21 21 0 0 1 24 45 A 21 21 0 0 1 8.3808594 38 L 19 38 L 19 41 L 29 41 L 29 38 L 29 36 L 29 34 L 26 34 L 26 32 L 29 32 L 29 30.015625 C 29 30.009591 29.005756 30.006009 29.005859 30 L 17 30 L 17 10 L 31 10 L 31 29 L 33 29 L 33 9 C 33 8.446 32.554 8 32 8 L 16 8 C 15.446 8 15 8.446 15 9 L 15 31 C 15 31.554 15.446 32 16 32 L 22 32 L 22 34 L 19 34 L 19 36 L 6.796875 36 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 44.367188 29 L 47.443359 29 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 18 11 L 18 15 L 30 15 L 30 11 L 18 11 z M 18 18 L 18 22 L 30 22 L 30 18 L 18 18 z M 18 25 L 18 29 L 30 29 L 30 25 L 18 25 z M 32 31 C 31.446 31 31 31.446 31 32 L 31 47 C 31 47.554 31.446 48 32 48 L 47 48 C 47.554 48 48 47.554 48 47 L 48 32 C 48 31.446 47.554 31 47 31 L 32 31 z M 43.585938 33.585938 L 45 35 L 43.138672 36.861328 A 4.4999997 4.4999997 0 0 1 44 39.5 A 4.4999997 4.4999997 0 0 1 39.5 44 A 4.4999997 4.4999997 0 0 1 36.861328 43.138672 L 34.392578 45.607422 L 32.978516 44.193359 L 35.541016 41.630859 A 4.4999997 4.4999997 0 0 1 35 39.5 A 4.4999997 4.4999997 0 0 1 39.5 35 A 4.4999997 4.4999997 0 0 1 41.632812 35.539062 L 43.585938 33.585938 z "
+     transform="scale(0.26458333)"
+     id="path870" />
+</svg>

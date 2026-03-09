@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <g id="wallet-closed" transform="translate(-22,0)">
+    <path inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" d="m 24,10 v 6 c 0,0 0,3 3,3 0,0 9,0 12,0 3,0 3,-3 3,-3 v -6 c 0,0 0,-3 -3,-3 0,0 -9,0 -12,0 -3,0 -3,3 -3,3 z m 1,0 c 0,0 0,-2 2,-2 2,0 10,0 12,0 2,0 2,2 2,2 v 1 h -2 -5 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 h 5 2 v 1 c 0,0 0,2 -2.09861,2 C 36.802779,18 29,18 27,18 25,18 25,16 25,16 Z m 10,2 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z" id="path4200" sodipodi:nodetypes="ccsscccssccccccssscccccsssss" class="ColorScheme-Text"/>
+    <rect y="0" x="22" height="22" width="22" id="rect4222" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
+  </g>
+</svg>

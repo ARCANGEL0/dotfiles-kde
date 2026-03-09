@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g id="ime-chewing" transform="translate(88,8e-6) translate(-88,-8e-06)">
+      <path transform="translate(-88,-34)" id="path4265" d="m 94,37 c -3,0 -3,3 -3,3 v 10 c 0,0 0,3 3,3 3,0 7,0 10,0 3,0 3,-3 3,-3 V 40 c 0,0 0,-3 -3,-3 -3,0 -7,0 -10,0 z m -2,3 c 0,0 0,-2 2,-2 2,0 8,0 10,0 2,0 2,2 2,2 v 10 c 0,0 0,2 -2,2 -2,0 -8,0 -10,0 -2,0 -2,-2 -2,-2 z m 1,-1 v 1 h 1 v 3 h -1 v 8 h 1 4.5 0.5 V 43 H 98.5 97 v -3 h 2 v -1 z m 6,4 0.400391,0.300781 c 0,0 0.398251,-0.511169 0.796879,-1.300781 H 102 v 2 h -2 v 1 h 5 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h -1 v 2 h -1.38281 C 100.83463,40.388658 101,39.708749 101,39 h -1 c 0,1.75 -1.400391,3.699219 -1.400391,3.699219 z m -4,-3 h 1 v 3 h -1 z m 0,4 h 1 v 3 h 1 v -3 h 1 v 6 h -4 v -1 h 3 v -1 h -3 v -1 h 1 z m 5,2 v 0.5 4.5 h 5 v -5 z m 1,1 h 3 v 3 h -3 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+      <rect y="0" x="0" height="22" width="22" id="rect4267" style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter"/>
+    </g>
+  </g>
+</svg>

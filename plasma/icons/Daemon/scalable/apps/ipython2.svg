@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ipython.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="Highlight/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 10 39.623047 L 10 8.3808594 A 21 21 0 0 1 24 3 z M 16 15 L 16 17 L 16 32 L 16 34 L 18 34 L 21 34 L 21 32 L 18 32 L 18 17 L 21 17 L 21 15 L 18 15 L 16 15 z M 31 15 L 31 17 L 34 17 L 34 32 L 31 32 L 31 34 L 36 34 L 36 32 L 36 15 L 31 15 z M 21 19 L 26 29.373047 L 26.011719 29.371094 L 25 32 L 23 32 L 23 34 L 26 34 L 27 32 L 32 19 L 30 19 L 26.957031 26.912109 L 23 19 L 21 19 z M 38 19 A 0.99999999 0.99999999 0 0 0 37 20 A 0.99999999 0.99999999 0 0 0 38 21 A 0.99999999 0.99999999 0 0 0 39 20 A 0.99999999 0.99999999 0 0 0 38 19 z M 38 29 A 0.99999999 0.99999999 0 0 0 37 30 A 0.99999999 0.99999999 0 0 0 38 31 A 0.99999999 0.99999999 0 0 0 39 30 A 0.99999999 0.99999999 0 0 0 38 29 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

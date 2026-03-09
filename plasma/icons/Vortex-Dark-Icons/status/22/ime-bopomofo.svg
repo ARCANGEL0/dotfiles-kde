@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <g id="ime-bopomofo" transform="translate(66,0) translate(-66,0)" style="fill:#cccccc">
+    <rect y="0" x="0" height="22" width="22" id="rect4212" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path4214" transform="translate(-88,-33.999992)" d="m 91,39.999992 v 10 c 0,0 0,3 3,3 3,0 7,0 10,0 3,0 3,-3 3,-3 v -10 c 0,0 0,-3 -3,-3 -3,0 -7,0 -10,0 -3,0 -3,3 -3,3 z m 1,0 c 0,0 0,-2 2,-2 2,0 8,0 10,0 2,0 2,2 2,2 v 10 c 0,0 0,2 -2,2 -2,0 -8,0 -10,0 -2,0 -2,-2 -2,-2 z m 7.300781,-1.400383 -0.601562,0.800782 2.000001,1.5 0.60156,-0.800782 z m -5.947265,0.04687 -0.707032,0.707032 2,2 0.707032,-0.707032 z M 96,41 v 1 h 4 v 3 h -3 v 1 h 3 v 4 h -4 v 1 h 9 v -1 h -4 v -4 h 3 v -1 h -3 v -3 h 4 v -1 z m -2.646484,0.646484 -0.707032,0.707032 2,2 0.707032,-0.707032 z m 1.171875,3.195313 -2,6 0.949218,0.316406 2,-6 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+  </g>
+</svg>

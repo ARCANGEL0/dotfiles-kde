@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="face-ninja.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 6.34,0.07 a 6.29,6.29 0 0 0 -6.29,6.3 6.29,6.29 0 0 0 6.3,6.28 6.29,6.29 0 0 0 6.28,-6.29 6.29,6.29 0 0 0 -6.29,-6.29 z m 0,2.46 A 5.15,2.58 0 0 1 11.49,5.11 5.15,2.58 0 0 1 6.34,7.7 5.15,2.58 0 0 1 1.18,5.1 5.15,2.58 0 0 1 6.34,2.52 Z m 2,1.01 A 0.66,1.55 0 0 0 7.69,5.09 0.66,1.55 0 0 0 8.34,6.63 0.66,1.55 0 0 0 9,5.1 0.66,1.55 0 0 0 8.34,3.55 Z M 4.35,3.57 a 0.66,1.55 0 0 1 0.01,0 z m 0,0 A 0.66,1.55 0 0 0 3.7,5.12 0.66,1.55 0 0 0 4.36,6.66 0.66,1.55 0 0 0 5,5.12 0.66,1.55 0 0 0 4.36,3.57 Z m 3.98,0.41 a 0.2,0.3 0 0 1 0.2,0.3 0.2,0.3 0 0 1 -0.2,0.3 0.2,0.3 0 0 1 -0.2,-0.3 0.2,0.3 0 0 1 0.2,-0.3 z M 4.34,4.01 a 0.2,0.3 0 0 1 0.2,0.3 0.2,0.3 0 0 1 -0.2,0.3 0.2,0.3 0 0 1 -0.2,-0.3 0.2,0.3 0 0 1 0.2,-0.3 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+</svg>

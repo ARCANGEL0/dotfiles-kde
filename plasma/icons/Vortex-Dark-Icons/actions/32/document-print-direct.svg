@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs
+     id="defs3051">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}.ColorScheme-Highlight {color:#3daee9;}</style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     id="path8"
+     d="m 7,4 v 8 c 0,0 -3,0 -3,3 0,3 0,3 0,6 0,3 3,3 3,3 h 3 v 4 H 21 V 27 H 11 V 24 H 22 V 19 H 8 v 4 H 7 C 7,23 5,23 5,20.934007 5,18.868013 5,17 5,15 5,13 7,13 7,13 h 18 c 0,0 2,0 2,2 0,2 0,3 0,3 h 1 c 0,0 0,0 0,-3 0,-3 -3,-3 -3,-3 V 4 Z m 1,1 h 16 v 7 H 8 Z m 2,2 V 8 H 22 V 7 Z m 0,3 v 1 h 12 v -1 z m 12,5 v 1 h 4 v -1 z"
+     class="ColorScheme-Text"
+     />
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     id="path10"
+     d="M 24,28 29,23.5 24,19 Z" 
+     class="ColorScheme-Highlight"
+     />
+</svg>

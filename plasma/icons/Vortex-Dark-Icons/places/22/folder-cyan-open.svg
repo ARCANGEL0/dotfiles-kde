@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     style="fill:#08a19d;fill-opacity:1"
+     d="m 3,6 v 10 c 0.015469,3 3,3 3,3 h 10 c 3.000084,0 3,-3 3,-3 L 19,8 C 19,5 16,5 16,5 H 12 C 11.338634,4.3280018 10.671158,3.6621808 10,3 H 6 C 3,3 3,6 3,6 Z m 6,2 h 7 c 0,0 2,0 2,2 0,2 0,4 0,6 0,2 -2,2 -2,2 H 6 C 4,18 4,16 4,16 4,16 4,12 4,11 4,10 5,10 5,10 H 6.992 V 9.992 L 7,10 C 7.6944442,9.3155929 8.3201787,8.7284888 9,8 Z"
+     id="path1-5" />
+</svg>

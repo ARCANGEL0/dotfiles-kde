@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="system-suspend-hibernate.svg"
+   width="22"
+   height="22"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.477273"
+     inkscape:cx="10.69961"
+     inkscape:cy="10.842653"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+  <g
+     id="22-22-system-suspend-hibernate"
+     transform="translate(0,-10)">
+    <path
+       style="opacity:1;fill:none"
+       d="M 0,10 V 32 H 22 V 10 Z"
+       id="path49-1" />
+    <path
+       style="color:#31363b;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.125"
+       d="m 6.3876945,12.863629 -0.9755855,0.5625 1.8522944,3.20581 -2.5290509,-0.676763 -0.2922376,1.087637 3.6166997,0.969008 1.7666074,3.056397 H 6.2954092 L 3.6477056,18.420502 2.8522944,19.215914 4.7045908,21.068218 H 1 v 1.125 h 3.7045908 l -1.8522964,1.852284 0.7954112,0.795412 2.6477036,-2.647696 H 9.819824 l -1.7622065,3.051991 -3.6166997,0.969008 0.2900384,1.087637 2.53125,-0.678956 -1.8522943,3.208003 0.9733883,0.5625 1.8522964,-3.208003 0.6789536,2.53126 L 10,29.424412 9.031006,25.805516 11.118401,22.193218 h 0.0059 l 2.089601,3.62109 -0.968994,3.616704 1.087647,0.290032 0.676757,-2.529046 1.852398,3.208002 0.975587,-0.5625 -1.852294,-3.208002 2.529053,0.676762 0.292234,-1.085464 -3.616697,-0.968988 -1.766604,-3.05859 h 3.531008 l 2.647704,2.647696 0.79541,-0.795412 -1.852256,-1.852284 h 3.704589 v -1.125 h -3.704513 l 1.852294,-1.852304 -0.05717,-0.06598 H 17.875 l -1.920411,1.918228 H 12.42579 L 13.533205,19.15 H 12.25 l -1.122807,1.916025 h -0.002 l -0.0039,-0.002 L 9.035872,17.449429 10.004865,13.83273 8.9171862,13.54048 8.2404284,16.071732 Z M 18.441042,14.93126 H 20.13206 L 20.100334,15.775 H 16.75 l 1.691041,-2.53124 h -1.69104 V 12.4 h 3.382056 z m -4.505308,2.249979 h 1.689268 l -0.03177,0.84376 H 12.246403 L 13.935676,15.49376 H 12.246461 V 14.65 H 15.625 Z"
+       class="ColorScheme-Text"
+       id="path918-7" />
+  </g>
+</svg>

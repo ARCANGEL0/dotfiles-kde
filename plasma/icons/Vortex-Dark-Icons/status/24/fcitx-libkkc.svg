@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <g transform="translate(1,1)">
+    <g transform="translate(22,-103.99999) translate(-22,-66)" id="fcitx-libkkc">
+      <rect y="170" x="-2.4709701e-09" height="22" width="22" id="rect4452" style="fill:none;fill-opacity:1;stroke:none"/>
+      <path class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" d="m 25,83.99999 c 0,3 0,10 0,10 0,0 0,3 3,3.00001 3,1e-5 7,1e-5 10,0 3,-1e-5 3,-3.00001 3,-3.00001 0,0 0,-7 0,-10 C 41,80.99999 38,81 38,81 H 28 c 0,0 -3,-1e-5 -3,2.99999 z m 1,0 C 26,81.99999 28,82 28,82 h 10 c 0,0 2,-1e-5 2,1.99999 0,2 0,10 0,10 0,0 0,2 -2,2.00001 -2,1e-5 -8,1e-5 -10,0 -2,-1e-5 -2,-2.00001 -2,-2.00001 0,0 0,-8 0,-10 z M 27,85 v 8 h 1 V 90.707031 L 30.292969,93 H 31 31.707031 32 V 90.707031 L 34.292969,93 h 1.414062 l -3,-3 3,-3 H 34.292969 L 32,89.292969 V 85 h -1 v 2 H 30.292969 L 28,89.292969 V 85 Z m 10,2 c -0.583333,0 -1.110664,0.153634 -1.478516,0.521484 C 35.153633,87.889344 35,88.41667 35,89 v 2 c 0,0.58333 0.153633,1.110656 0.521484,1.478516 C 35.889336,92.846366 36.416667,93 37,93 37.583333,93 38.110664,92.846366 38.478516,92.478516 38.846367,92.110656 39,91.58333 39,91 h -1 c 0,0.41667 -0.09637,0.639344 -0.228516,0.771484 C 37.639336,91.903634 37.416667,92 37,92 36.583333,92 36.360664,91.903604 36.228516,91.771484 36.096367,91.639344 36,91.41667 36,91 v -2 c 0,-0.41667 0.09637,-0.639344 0.228516,-0.771484 C 36.360664,88.096366 36.583333,88 37,88 c 0.416667,0 0.639336,0.0964 0.771484,0.228516 C 37.903633,88.360656 38,88.58333 38,89 h 1 C 39,88.41667 38.846367,87.889344 38.478516,87.521484 38.110664,87.153634 37.583333,87 37,87 Z m -6,0.707031 v 4.585938 L 28.707031,90 Z" transform="translate(-22,92)" id="rect4456"/>
+    </g>
+  </g>
+</svg>

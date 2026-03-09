@@ -1,0 +1,15 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}.ColorScheme-NegativeText {color:#da4453;}</style>
+  </defs>
+<path
+    d="m 3,4 c 0,2 0,6 0,8 0,2 2,2 2,2 H 8.3652344 C 8.2174655,13.691396 8.1517126,13.351265 8.0996094,13 H 5 C 5,13 4,13 4,12 4,11 4,5 4,4 4,3 5,3 5,3 h 6 c 0,0 1,0 1,1 0,1 0,5.0996094 0,5.0996094 0.351265,0.052103 0.691396,0.1178561 1,0.265625 C 13,9.3652344 13,6 13,4 13,2 11,2 11,2 H 5 C 5,2 3,2 3,4 Z M 5,4 V 5 H 9 V 4 Z M 5,6 V 7 H 9 V 6 Z M 5,8 V 9 H 9 V 8 Z m 6.5,2 C 10.115,10 9,11.115 9,12.5 9,13.885 10.115,15 11.5,15 12.885,15 14,13.885 14,12.5 14,11.115 12.885,10 11.5,10 Z m 0,1 c 0.4155,0 0.791375,0.166375 1.0625,0.4375 C 12.833625,11.708625 13,12.0845 13,12.5 H 11.5 V 14 C 11.0845,14 10.708625,13.833625 10.4375,13.5625 10.166375,13.291375 10,12.9155 10,12.5 10,12.0845 10.166375,11.708625 10.4375,11.4375 10.708625,11.166375 11.0845,11 11.5,11 Z"
+    style="fill:currentColor;fill-opacity:1;stroke:none"
+    class="ColorScheme-Text"
+    />
+<path
+    d="m10 4v1h1v-1zm0 2v1h1v-1zm0 2v1h1v-1z"
+    style="fill:currentColor;fill-opacity:1;stroke:none"
+    class="ColorScheme-NegativeText"
+    />
+</svg>

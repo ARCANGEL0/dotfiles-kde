@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <g transform="translate(1,1)">
+    <g id="22-22-input-combo-on" transform="translate(-8,116.99999) translate(-16,-234)">
+      <rect x="24" y="117" width="22" height="22" opacity=".00100002"/>
+      <path class="ColorScheme-Text" d="M 28,123.00001 V 134 l 7,2 7,-2 v -10.99999 c 0,0 0,-3 -3,-3 -3,0 -5,0 -8,0 -3,0 -3,3 -3,3 z m 1,0 c 0,0 0,-2 2,-2 2,0 6,0 8,0 2,0 2,2 2,2 v 6 c 0,0 0,2 -2,2 -2,0 -6,0 -8,0 -2,0 -2,-2 -2,-2 z M 29,132 h 12 v 1 H 29 Z m 9,-9.99999 v 0.83333 h -1 v 0.83334 h 1 v 2.5 h -1 v 0.83333 h 3 v -0.83333 h -1 v -4.16667 z m -4.5625,1 -2.4375,6 h 1.07422 l 0.40625,-1 h 3.03906 l 0.40625,1 H 37 l -2.43945,-6 h -0.53711 l -0.0234,0.01 -0.0234,-0.01 z m 0.5625,1.25781 1.11328,2.74219 h -2.22656 z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="applications-mathematics.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 41.869141 13 L 32.826172 13 A 3 3 0 0 0 30 11 A 3 3 0 0 0 27.175781 13 L 22.826172 13 A 3 3 0 0 0 20 11 A 3 3 0 0 0 17.175781 13 L 6.1425781 13 A 21 21 0 0 1 24 3 z M 5.0546875 15 L 17.173828 15 A 3 3 0 0 0 20 17 A 3 3 0 0 0 22.824219 15 L 27.173828 15 A 3 3 0 0 0 30 17 A 3 3 0 0 0 32.824219 15 L 42.949219 15 A 21 21 0 0 1 44.964844 23 L 36.826172 23 A 3 3 0 0 0 34 21 A 3 3 0 0 0 31.175781 23 L 12.826172 23 A 3 3 0 0 0 10 21 A 3 3 0 0 0 7.1757812 23 L 3.0507812 23 A 21 21 0 0 1 5.0546875 15 z M 3.0351562 25 L 7.1738281 25 A 3 3 0 0 0 10 27 A 3 3 0 0 0 12.824219 25 L 31.173828 25 A 3 3 0 0 0 34 27 A 3 3 0 0 0 36.824219 25 L 44.949219 25 A 21 21 0 0 1 42.945312 33 L 35.826172 33 A 3 3 0 0 0 33 31 A 3 3 0 0 0 30.175781 33 L 26.826172 33 A 3 3 0 0 0 24 31 A 3 3 0 0 0 21.175781 33 L 5.0507812 33 A 21 21 0 0 1 3.0351562 25 z M 6.1308594 35 L 21.173828 35 A 3 3 0 0 0 24 37 A 3 3 0 0 0 26.824219 35 L 30.173828 35 A 3 3 0 0 0 33 37 A 3 3 0 0 0 35.824219 35 L 41.857422 35 A 21 21 0 0 1 24 45 A 21 21 0 0 1 6.1308594 35 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

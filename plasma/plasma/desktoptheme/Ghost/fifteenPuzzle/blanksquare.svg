@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2183"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="blanksquare.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"
+   inkscape:export-filename="/home/jmt/Desktop/plasmathemes/desktoptheme/Ghost/fifteenPuzzle/blanksquare.png"
+   inkscape:export-xdpi="535.27271"
+   inkscape:export-ydpi="535.27271">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#393939"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="12.264068"
+     inkscape:cy="24.508216"
+     inkscape:current-layer="g3784"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1024"
+     inkscape:window-height="715"
+     inkscape:window-x="-15"
+     inkscape:window-y="0"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2938"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2185">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3840" />
+  </defs>
+  <metadata
+     id="metadata2188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer" />
+  <g
+     id="g3784"
+     transform="translate(1.5,-1.5)"
+     style="fill:#00ffff">
+    <rect
+       y="0"
+       x="0"
+       height="48"
+       width="48"
+       id="rect2891"
+       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-1.5,1.5)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#00ffff;opacity:0.5"
+       id="rect2816"
+       width="44"
+       height="44"
+       x="0.5"
+       y="3.5" />
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAAlwSFlzAABS UgAAUlIB+NyCzgAAAAd0SU1FB9oDDxcCD9tSNYkAAADQSURBVFjD7ZcxDsJADATtCPGOhPz/C3wB wVMoEcQUlKwln64gCePy5DttsXNeuy3L2VRFPL7O3FWflUvdz95w3TzYxgrBCN664IP8DT6UXgTN ry7y8wpxf8YSCN4ndDk0CrBrqa99jI/qBSyB4H1C1zSP4ingupV7zaYE0KkKKJZAMIJ/kIdbNlwv /gZm7vfquM12bCyB4P/Kw3rchoBrTHqHzigQWALBCF55gI9i0D41jPbuRQJLIHgPeTijYxYgeTnj 6jHeQuIRSyAYwSuoN16iPH6I8OPJAAAAAElFTkSuQmCC "
+       width="44"
+       height="44"
+       id="image3842"
+       x="0.5"
+       y="3.5"
+       style="opacity:0.2" />
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   enable-background="new"
+   version="1.0"
+   id="svg5"
+   sodipodi:docname="goa-account-google.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.96875"
+     inkscape:cx="25.633508"
+     inkscape:cy="27.979058"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs1">
+    <filter
+       id="a"
+       width="1.096"
+       height="1.096"
+       x="-0.048"
+       y="-0.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation=".56"
+         id="feGaussianBlur1" />
+    </filter>
+  </defs>
+  <rect
+     width="42"
+     height="42"
+     x="3"
+     y="3"
+     fill="#f2f2f2"
+     enable-background="accumulate"
+     rx="21"
+     ry="21"
+     id="rect2"
+     style="stroke-width:1;fill:#243049;fill-opacity:1" />
+  <path
+     fill="#3284ff"
+     d="m 38.249249,23.936817 c 0,-0.940495 -0.08707,-1.860002 -0.246006,-2.750996 H 24.300742 v 5.501996 h 8.291999 a 8.7495014,8.7495014 0 0 1 -3.182996,4.656005 c -0.084,2.645999 1.813494,3.310493 4.279492,3.404994 2.820008,-2.660998 4.560012,-6.518993 4.560012,-10.811999"
+     id="path2"
+     style="stroke-width:1" />
+  <path
+     fill="#ff3424"
+     d="m 24.479242,15.292319 c 2.084999,0 3.962998,0.754501 5.417999,2.009993 l 3.959996,-4.015491 A 13.579506,13.579506 0 0 0 24.300742,9.3973156 c -5.581498,0 -10.5585,3.2790014 -12.981004,8.0505064 0.322502,3.569999 2.704499,3.434996 4.861494,3.706499 1.243509,-3.417 4.545008,-5.862002 8.29801,-5.862002"
+     id="path3"
+     style="stroke-width:1" />
+  <path
+     fill="#ffbb00"
+     d="m 11.409737,30.599819 c 4.317007,0.376503 5.206503,-1.261496 4.689005,-3.728996 a 8.700002,8.700002 0 0 1 0.08262,-5.718007 l -4.861594,-3.704994 a 14.292006,14.292006 0 0 0 0.08997,13.151997"
+     id="path4"
+     style="stroke-width:1" />
+  <path
+     fill="#26b14c"
+     d="m 16.098742,26.870823 -4.687503,3.728996 c 2.454002,4.677005 7.377003,7.875002 12.889503,7.875002 3.660002,0 6.932997,-1.409998 9.389994,-3.726005 l -4.280991,-3.404994 a 8.2095013,8.2095013 0 0 1 -4.930503,1.630495 c -3.840004,0 -7.207507,-2.560496 -8.3805,-6.103494"
+     id="path5"
+     style="stroke-width:1" />
+</svg>

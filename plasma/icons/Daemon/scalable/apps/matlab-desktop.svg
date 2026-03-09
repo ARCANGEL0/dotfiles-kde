@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="matlab.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="862"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 6.344,0.072 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.289 6.29,6.29 0 0 0 6.29,-6.29 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 7.924,2.934 A 0.136,0.136 0 0 0 7.839,2.95 V 2.948 C 7.718,3.045 7.36,3.722 7.003,4.53 6.858,4.86 6.653,5.29 6.551,5.489 6.243,6.075 5.493,7.143 5.145,7.483 L 4.822,7.803 5.063,8.068 C 5.211,8.23 5.407,8.568 5.57,8.945 5.878,9.664 5.931,9.767 5.99,9.767 6.018,9.767 6.176,9.678 6.353,9.566 6.746,9.311 7.113,8.968 7.613,8.385 8.393,7.475 8.978,7.283 9.699,7.7 9.894,7.814 10.054,7.885 10.054,7.858 A 6.89,6.89 0 0 0 9.836,7.248 C 9.717,6.94 9.392,6.07 9.116,5.314 8.931,5.003 8.354,2.992 7.924,2.934 Z M 6.284,4.81 c -0.003,0 -0.007,0 -0.012,0.002 C 5.612,5.108 5.374,5.242 5.179,5.431 5.051,5.556 4.947,5.69 4.947,5.729 4.947,5.85 5.467,6.174 5.552,6.106 5.593,6.073 5.756,5.835 5.912,5.576 6.19,5.113 6.334,4.816 6.285,4.81 Z M 4.436,6.116 4.437,6.117 c -0.112,0 -1.707,0.618 -1.783,0.692 -0.022,0.021 0.002,0.06 0.053,0.089 0.051,0.03 0.343,0.23 0.652,0.444 0.308,0.215 0.576,0.39 0.595,0.39 0.02,0 0.16,-0.075 0.312,-0.169 C 4.584,7.367 5.199,6.761 5.196,6.645 5.193,6.542 4.581,6.116 4.436,6.116 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+</svg>

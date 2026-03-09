@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="applications-all-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.245804"
+     inkscape:cx="10.942524"
+     inkscape:cy="4.1238615"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text { color:#f2f2f2; }
+.ColorScheme-Background { color:#E9E8E8; }
+.ColorScheme-ViewText { color:#31363b; }
+.ColorScheme-ViewBackground { color:#ffffff; }
+.ColorScheme-ViewHover { color:#000000; }
+.ColorScheme-ViewFocus { color:#5a5a5a; }
+.ColorScheme-ButtonText { color:#31363b; }
+.ColorScheme-ButtonBackground { color:#E9E8E8; }
+.ColorScheme-ButtonHover { color:#1489ff; }
+.ColorScheme-ButtonFocus { color: #2B74C7; }
+</style>
+  <g
+     id="22-22-applications-other-2">
+    <path
+       style="clip-rule:evenodd;fill:#ffffc1;fill-opacity:0;fill-rule:evenodd;stroke-width:0.688964;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       d="M 0,0 V 22 H 22 V 0 Z"
+       id="rect817-5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 8.1518987,10.407595 H 4.2556962 C 3.0253165,10.407595 2,9.4050633 2,8.1518987 V 4.2556962 C 2,3.0253165 3.0025316,2 4.2556962,2 h 3.8962025 c 1.2303797,0 2.2556963,1.0025316 2.2556963,2.2556962 v 3.8962025 c 0,1.2303797 -1.0253166,2.2556963 -2.2556963,2.2556963 z M 4.2556962,2.8886076 c -0.7518987,0 -1.3443038,0.6151899 -1.3443038,1.3443038 v 3.8962025 c 0,0.7518987 0.6151899,1.3443038 1.3443038,1.3443038 h 3.8962025 c 0.7518987,0 1.3443038,-0.6151899 1.3443038,-1.3443038 V 4.2556962 c 0,-0.7518987 -0.6151899,-1.3443038 -1.3443038,-1.3443038 H 4.2556962 Z"
+       id="path2-3-3"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.227848" />
+    <path
+       d="M 8.1518987,20 H 4.2556962 C 3.0253165,20 2,18.997468 2,17.744304 v -3.896203 c 0,-1.23038 1.0025316,-2.255696 2.2556962,-2.255696 h 3.8962025 c 1.2303797,0 2.2556963,1.002532 2.2556963,2.255696 v 3.896203 C 10.407595,18.997468 9.3822784,20 8.1518987,20 Z M 4.2556962,12.503797 c -0.7518987,0 -1.3443038,0.61519 -1.3443038,1.344304 v 3.896203 c 0,0.751898 0.6151899,1.344304 1.3443038,1.344304 h 3.8962025 c 0.7518987,0 1.3443038,-0.61519 1.3443038,-1.344304 v -3.896203 c 0,-0.751899 -0.6151899,-1.344304 -1.3443038,-1.344304 z"
+       id="path6"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.227848" />
+    <path
+       d="m 17.744304,20 h -3.896203 c -1.23038,0 -2.255696,-1.002532 -2.255696,-2.255696 v -3.896203 c 0,-1.23038 1.002532,-2.255696 2.255696,-2.255696 h 3.896203 C 18.974683,11.592405 20,12.594937 20,13.848101 v 3.896203 C 20,18.997468 18.997468,20 17.744304,20 Z m -3.896203,-7.496203 c -0.751899,0 -1.344304,0.61519 -1.344304,1.344304 v 3.896203 c 0,0.751898 0.61519,1.344304 1.344304,1.344304 h 3.896203 c 0.751898,0 1.344304,-0.61519 1.344304,-1.344304 v -3.896203 c 0,-0.751899 -0.61519,-1.344304 -1.344304,-1.344304 z"
+       id="path10-6"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.227848" />
+    <path
+       d="M 13.392405,2 H 18.2 C 19.202532,2 20,2.7974684 20,3.8 v 4.8075949 c 0,1.0025316 -0.797468,1.8000001 -1.8,1.8000001 h -4.807595 c -1.002532,0 -1.8,-0.7974685 -1.8,-1.8000001 V 3.8 c 0,-1.0025316 0.820253,-1.8 1.8,-1.8 z"
+       id="path14-7"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.227848" />
+  </g>
+</svg>

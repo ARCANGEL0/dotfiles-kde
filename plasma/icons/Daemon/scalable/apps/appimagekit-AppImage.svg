@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="AppImage.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 21 7 L 21 16 L 18 16 L 24 22 L 30 16 L 27 16 L 27 7 L 21 7 z M 23 25 L 22.162109 28.351562 A 5.0000001 5.0000001 0 0 0 22.017578 28.416016 L 19.050781 26.636719 L 17.636719 28.050781 L 19.414062 31.011719 A 5.0000001 5.0000001 0 0 0 19.355469 31.162109 L 16 32 L 16 34 L 19.351562 34.837891 A 5.0000001 5.0000001 0 0 0 19.416016 34.982422 L 17.636719 37.949219 L 19.050781 39.363281 L 22.011719 37.585938 A 5.0000001 5.0000001 0 0 0 22.162109 37.644531 L 23 41 L 25 41 L 25.837891 37.648438 A 5.0000001 5.0000001 0 0 0 25.982422 37.583984 L 28.949219 39.363281 L 30.363281 37.949219 L 28.585938 34.988281 A 5.0000001 5.0000001 0 0 0 28.644531 34.837891 L 32 34 L 32 32 L 28.648438 31.162109 A 5.0000001 5.0000001 0 0 0 28.583984 31.017578 L 30.363281 28.050781 L 28.949219 26.636719 L 25.988281 28.414062 A 5.0000001 5.0000001 0 0 0 25.837891 28.355469 L 25 25 L 23 25 z M 24 30 A 3 3 0 0 1 27 33 A 3 3 0 0 1 24 36 A 3 3 0 0 1 21 33 A 3 3 0 0 1 24 30 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>

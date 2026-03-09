@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="application-community.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#5beedc"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 18.613281 12.009766 C 18.008431 11.976068 17.358719 12.032697 16.664062 12.205078 C 11.108403 13.584372 -0.49381554 25.351844 24.009766 39.994141 C 48.512932 25.351844 36.91154 13.584794 31.355469 12.205078 C 27.60035 11.273234 25.19516 13.715836 24.009766 15.412109 C 23.043464 14.029677 21.277727 12.158207 18.613281 12.009766 z M 24.009766 39.994141 C 24.00639 39.996158 24.003377 39.997983 24 40 L 24.019531 40 C 24.016154 39.997983 24.013141 39.996158 24.009766 39.994141 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+</svg>
